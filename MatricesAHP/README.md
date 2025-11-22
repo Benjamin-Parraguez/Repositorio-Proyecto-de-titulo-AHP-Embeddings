@@ -1,1 +1,1 @@
-En esta sección se encuentre la programación de excel, la de pyhton en su versión 1 (peso de criterios por ahp) y versión 2 (peso de criterios por embedding), ademas de los resultados obtenidos en python.
+En esta sección se encuentra la programación de excel, la de pyhton en su versión 1 (peso de criterios por ahp) y versión 2 (peso de criterios por embedding), ademas de los resultados obtenidos en python.
