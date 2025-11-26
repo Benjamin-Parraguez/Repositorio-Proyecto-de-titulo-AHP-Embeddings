@@ -1,0 +1,29 @@
+"Chile triplica la potencia instalada para carga pero caen las estaciones en vía pública"
+
+"Aunque la infraestructura de carga para vehículos eléctricos en Chile ha experimentado un notable aumento en potencia instalada, la cantidad de puntos de carga públicos ha disminuido, evidenciando desafíos en la expansión equitativa de la electromovilidad."
+
+"La infraestructura de recarga para vehículos eléctricos (VE) en Chile transita por un camino dual mientras se multiplican los megavatios de potencia instalada, disminuyen los puntos de carga públicos disponibles en el país."
+
+"Esta paradoja expone una tensión que podría ralentizar el despliegue de la electromovilidad en el mediano plazo si no se abordan de forma estructural las asimetrías territoriales y la falta de accesos fuera del ámbito privado."
+
+"Según el Informe de Cero y Bajas Emisiones publicado por la Asociación Nacional Automotriz de Chile (ANAC), en abril de 2025 la Superintendencia de Electricidad y Combustibles (SEC) registró un total de 166 nuevos puntos de carga públicos, lo que representa una baja del 8,7% respecto a los 182 que se habían registrado a la misma fecha en 2024."
+
+"En contraste, la potencia instalada se triplicó, alcanzando 38 MW, frente a los 7,6 MW registrados un año antes. Esto representa un crecimiento del 399%, impulsado por cargadores más potentes y eficientes."
+
+"Esta expansión en capacidad responde a una estrategia que privilegia cargadores rápidos, especialmente en entornos urbanos de alta demanda, pero no necesariamente conlleva una expansión de acceso territorial. Del total de 611 nuevos cargadores registrados entre enero y abril de 2025, el 68% corresponde a instalaciones privadas, lo que plantea un problema de equidad en el acceso a la recarga."
+
+"El problema más evidente es la concentración geográfica. Tal como se expuso en una investigación previa de Mobility Portal Latinoamérica, más del 75% de los puntos de carga públicos están en la Región Metropolitana, lo que deja a otras regiones del país con una infraestructura mínima o, en algunos casos, inexistente."
+
+"Quienes habitan fuera de Santiago enfrentan limitaciones serias para adoptar un VE, no por falta de interés, sino por un entorno que aún no permite esa elección como opción viable."
+
+"Volviendo al crecimiento en potencia, es importante destacar que tener más MW disponibles no garantiza el acceso universal a la carga. Aunque el número total de conectores en el país alcanzó los 1.682 a abril de este año, una porción significativa está en el sector privado o en flotas corporativas."
+
+"Del total instalado en lo que va de 2025, 469 corresponden a cargadores privados (un alza del 112% respecto a 2024), frente a solo 108 públicos, lo que representa una caída del 27%."
+
+"En términos de estándares, el 70% de los conectores disponibles son de Tipo 2 AC, mientras que los de carga rápida en corriente continua (DC), como CCS Tipo 2 o CHAdeMO, siguen siendo minoría, aunque ganan presencia."
+
+"Desde el sector privado, ya hay llamados a trabajar en una planificación más descentralizada. Empresas como Copec Voltex, Enel X y Kaufmann han manifestado la necesidad de una hoja de ruta consensuada entre actores públicos y privados para evitar cuellos de botella logísticos que frenen el desarrollo del mercado eléctrico automotor."
+
+"El componente económico no puede ignorarse. A diferencia de países como Colombia, donde se otorgan deducciones tributarias o exenciones a quienes instalan cargadores residenciales, en Chile aún no hay un paquete robusto de incentivos para democratizar el acceso. Las actuales medidas están orientadas principalmente a la importación y compra de vehículos eléctricos, pero no al desarrollo de la red de carga, lo cual representa un punto ciego en la estrategia nacional."
+
+"Mientras Chile lidera en muchos rankings regionales de electromovilidad, la infraestructura de recarga sigue avanzando a dos velocidades. Por un lado, se celebran récords de potencia instalada y se multiplican los modelos disponibles en el mercado. Por el otro, la experiencia de usuario promedio aún depende de dónde vive, si tiene garaje y si puede costear una instalación particular."

@@ -1,0 +1,67 @@
+"Tres de cada cuatro conectores públicos instalados en Chile tienen menos de 50 kW de potencia. La red de carga crece, pero especialistas alertan sobre su concentración en la Región Metropolitana."
+
+"Al cierre de mayo de 2025, según el Observatorio de Infraestructura de Carga del Centro de Movilidad Sostenible, Chile cuenta con 1.704 conectores de acceso público, distribuidos en 1.189 cargadores."
+
+"De ellos, 974 son de baja potencia (menos de 50 kW) y solo 215 son rápidos (más de 50 kW). Esto significa que el 76% de la red de carga nacional es de baja potencia."
+
+"La estadística se confirma al observar la segmentación por potencia."
+
+"44 porciento de los conectores corresponde a carga lenta (0–10 kW)."
+
+"32 porciento son semirrápidos (11–22 kW)."
+
+"21 porciento son rápidos (50–150 kW)."
+
+"Apenas 3% son ultrarrápidos (sobre 150 kW)."
+
+"El desafío es claro el país ha multiplicado por más de 50 veces su infraestructura en siete años -pasando de 21 conectores en 2018 a 1.704 en 2025-, pero el crecimiento no se traduce en velocidad de carga suficiente para habilitar viajes interurbanos o grandes operaciones logísticas."
+
+"la infraestructura de carga en Chile creció en el último tiempo, pero no de la mano de lo que ha crecido la venta de autos eléctricos."
+
+"Las cifras de la asociación respecto de las instalaciones que fueron registradas nuevas en el primer semestre del año dan cuenta que hubo 928 instalaciones nuevas, entre públicas y privadas."
+
+"Este año se han instalado 1,028 mangueras de conexión, pero lo que falta es desarrollarlo a nivel regional en el extremo sur. Interpretamos el Plan Maestro como una hoja de ruta, una declaración de intenciones, analiza."
+
+"Las autopistas de Chile son todas concesionadas y si no haces un cambio normativo, el concesionario no tiene la obligación de hacer la instalación del punto de carga, evalúa el empresario."
+
+"lo bueno es que más del 55% de energía generada es renovable no convencional, lo cual da una oportunidad para que de verdad sea carbono neutral."
+
+"Concentración en la Región Metropolitana y brechas regionales"
+
+"La Región Metropolitana concentra el 70% de los conectores del país, con 1.185 equipos instalados."
+
+"En contraste, regiones como Magallanes o Aysén cuentan con apenas cinco y siete conectores respectivamente, mientras que Arica y Parinacota tienen nueve."
+
+"En total, 12 de las 16 regiones del país poseen menos de 50 conectores cada una, y en varias de ellas la mayoría corresponde a carga lenta."
+
+"La foto comparativa es aún más elocuente cuando se excluye la capital fuera de la RM, la red completa suma 519 conectores, distribuidos de manera desigual. En regiones clave como Valparaíso, que posee 89 conectores, aún predomina la carga lenta sobre la rápida."
+
+"De hecho, 211 de las 346 comunas de Chile carecen de infraestructura pública, lo que representa más del 60% del total de municipios."
+
+"Mientras mayor es la potencia del cargador, menor es el tiempo necesario para cargar un vehículo, lo que en general resulta deseable."
+
+"Sin embargo, una mayor potencia también exige inversiones más altas en infraestructura y, en el caso chileno, conlleva costos de operación para los operadores de puntos de carga (CPO), principalmente asociados a los cargos por potencia."
+
+"Instalar cargadores rápidos de alta potencia suele requerir de inversiones adicionales en la red de distribución, lo que impacta directamente en los plazos y en el presupuesto, desincentivando muchas veces el despliegue de este tipo de infraestructura”, abundó el analista."
+
+"factores económicos pero también técnicos podrían limitar el desarrollo de proyectos en zonas incipientes o con baja presencia de vehículos eléctricos, especialmente considerando que en Chile la operación de infraestructura de carga es un negocio privado."
+
+"Sobre el impacto en los usuarios La carga lenta no necesariamente se traduce en una mala experiencia, todo depende de las expectativas. Si uno sabe que va a estar un par de horas en un centro comercial o en un restaurant, no necesita un supercargador que demore 20 minutos."
+
+"Sin embargo, remarca que hay casos en que la carga rápida sí es una necesidad, como en flotas de última milla o en viajes interregionales. Ahí lo ideal es avanzar en cargadores rápidos, pero también en que funcionen bien."
+
+"Castro advierte que en Chile esto es especialmente importante, porque las distancias entre regiones son extensas, y por ejemplo, que falle el cargador de Vallenar o Combarbalá, es crítico."
+
+"Según él, un punto clave a destacar es el avance regulatorio. El proceso para definir un estándar de carga único es un caso de éxito. La decisión de converger hacia un solo conector, que hoy parece evidente, no lo era en su momento."
+
+"No obstante, agrega: hasta ahora no han existido incentivos directos para el despliegue de infraestructura de carga rápida, aunque sí se han impulsado iniciativas específicas."
+
+"Existen brechas importantes, la gran parte de las comunas de Chile no tiene infraestructura de carga de acceso público, resalta el experto al recordar que 211 de las 346 comunas no tienen ningún cargador público en su territorio."
+
+"Y enfatiza que la zona norte chilena es un ejemplo claro donde la desconexión es crítica. Entre La Serena y Arica hay más de 2.000 kilómetros con una cobertura muy limitada de cargadores, lo que en la práctica imposibilita viajes interregionales."
+
+"Integrar infraestructura de carga en las carreteras concesionadas"
+
+"Establecer tarifas diferenciadas para la carga pública en zonas estratégicas"
+
+"Crear mecanismos o programas de incentivo para instalar cargadores en áreas de baja rentabilidad en el corto plazo."

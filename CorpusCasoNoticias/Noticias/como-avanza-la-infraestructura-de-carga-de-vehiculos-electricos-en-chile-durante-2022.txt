@@ -1,0 +1,21 @@
+"Un total de 605 instalaciones, 1284 cargadores, 2100 conectores y 60,21 MW de potencia componen hasta finales de octubre de 2022 el escenario chileno que le da movimiento a los vehículos eléctricos."
+
+"Según el último reporte de electromovilidad de la Superintendencia de Electricidad y Combustibles (SEC) de Chile, se realiza un repaso de Norte a Sur de las cantidades de instalaciones, cargadores, conectores y los megavatios ocupados por movilidad eléctrica."
+
+"Durante los primeros 10 meses del corriente año se incorporaron 182 instalaciones, 310 cargadores, 406 conectores que representan 8,11 MW de potencia instalada."
+
+"Si posicionamos la visión en Arica-Antofagasta encontramos un total de 18 instalaciones, 27 cargadores y 41 conectores que implican una potencia de 1,28 MW. Cabe destacar un importante crecimiento respecto a las cifras de 2021."
+
+"En Atacama-Coquimbo la potencia que corresponde a electromovilidad es de 0,82 MW, que deriva de 13 instalaciones, 16 cargadores y 33 conectores según los datos referidos por la SEC."
+
+"La situación en Valparaíso-Maule es la más optimista en cuanto a infraestructura de carga a nivel país un total de 55,65 megavatios de potencia generados por 492 instalaciones con 1133 cargadores y 1874 conectores."
+
+"Por otra parte, en Biobío-Los Lagos se refieren 66 instalaciones con 90 cargadores y 132 cargadores que ostentan 2,26 MW en este sector."
+
+"En lo más austral del país, Aysén-Magallanes, el escenario es de apenas 0,16 MW de potencia como consecuencia de 12 instalaciones, 12 cargadores y 14 conectores."
+
+"En cuanto a puntos de carga públicos, las estadísticas de la SEC refieren 158 puntos instalados hasta octubre de este año. De ellos, 69 tienen potencia semi-rápida, 54 son rápidos, 33 ultrarrápidos y dos lentos."
+
+"Respecto a conectores, esta infraestructura se divide en 65 Tipo 2 Socket, 45 Combo T2, 38 CHAdeMO, 5 Tipo 2, 4 GB/T DC y uno Tipo 1 AC."
+
+"El panorama final de infraestructura de carga pública se compone a la fecha por 697 puntos. Todo esto, bastante lejos de los estudios que indican que Chile a 2035 necesitará de la disponibilidad de 131.540 cargadores distribuidos entre carga de tipo AC y DC."

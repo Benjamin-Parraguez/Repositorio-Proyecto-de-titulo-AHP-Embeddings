@@ -1,0 +1,45 @@
+"Algunos estudios se van anticipando al ingreso masivo de vehículos eléctricos y su impacto en las redes de distribución, que no será el mismo para el caso residencial, comercial o de electrolineras urbanas o rurales."
+
+"Atendiendo a que Chile es un país que tiene metas respecto a ventas de vehículos eléctricos fijadas en la Estrategia Nacional de Electromovilidad, la ingeniería se está encargando de anticipar los escenarios posibles de impacto en las redes de distribución eléctricas cuando el parque vehicular necesite cada vez más de las mismas."
+
+"El ejercicio se realizó con una potencia de 6,6 kW por automóvil y 75 vehículos cargando que corresponderían a uno por vivienda. El horario de carga era el nocturno, entre las 23 y 7hs."
+
+"En este ejercicio vemos una sobrecarga del 700 en las líneas que alimentan el condominio"
+
+"Y expuso una solución Sugerimos separar los circuitos y colocar dos subestaciones más de 200 kVa que permiten mejorar la situación, o sea, una mayor inversión en el sector."
+
+"Caso comercial de red de media tensión en un mall"
+
+"La investigación se basó en el centro comercial Mall Cencosud de Osorno con capacidad en su estacionamiento para 740 vehículos."
+
+"Aquí se realizaron dos procesos de simulación uno de carga normal para 100 vehículos eléctricos y otro también de carga normal, pero para 200 vehículos eléctricos."
+
+"Este mall tiene la característica de contar con un alimentador que fue construido para el mismo."
+
+"Se encontró que para el perfil de tensión con carga simultánea de 100 vehículos eléctricos, dada la robustez del alimentador, la caída de tensión es mínima."
+
+"Si aplicamos gestión de la demanda, se puede almacenar energía para evitar el sobrepaso de consumo en horario punta."
+
+"Con 100 autos en carga simultánea se demandarán 660 kW en horas punta y lo mismo en horas fuera de punta. La energía total suministrada será de 7260 kW."
+
+"Al respecto, el gerente de A&N Ingeniería Sustentable entiende que la adecuada gestión de la demanda no debe ir orientada solamente desde la parte técnica sino desde la económica de la tarifa."
+
+"En el caso de 200 autos en carga simultánea, la demanda máxima sin gestión de potencia es de 1320 kW o de 764kW con gestión de la demanda."
+
+"El perfil de tensión con electrolineras cargando simultáneamente 26 autos en total en carga rápida implica 1300 kW. Según lo expuesto en el Seminario Infraestructura de Carga para Electromovilidad, es muy bajo el impacto a regulación de tensión."
+
+"Para cargar 50 vehículos simultáneamente se requiere de 2500 kW. Es casi nula la diferencia respecto al caso anterior, aunque se llega al 85% de la capacidad del conductor del alimentador."
+
+"Hay un límite de capacidad y no se puede instalar otra electrolinera en ese mismo alimentador, es una restricción."
+
+"Las que primero se instalen seguramente van a tener algún grado de beneficio, las otras van a tener que adecuarse a un nuevo proyecto eléctrico."
+
+"Aquí se verificó un problema en el impacto de la nueva tencologia en las redes de distribución los alimentadores rurales son menos robustos que los urbanos y a veces son bifásicos."
+
+"Entre las conclusiones, A&N Ingeniería Sustentable considera necesario redefinir factores para dimensionamiento de redes de distribución, tales como factor de diversidad, de carga y de coincidencia."
+
+"Los centros comerciales se caracterizan por ser más robustos al ser proyectos relativamente nuevos."
+
+"La gestión de demanda es una opción para esta situación"
+
+"El problema está en baja tensión porque hay un crecimiento inorgánico que no permite planificar el sector eléctrico."

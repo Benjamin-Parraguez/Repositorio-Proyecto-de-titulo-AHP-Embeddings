@@ -1,0 +1,35 @@
+"A la fecha, el país cuenta con 492 estaciones de recarga pública, de las cuales 436 han sido evaluadas por la Superintendencia de Electricidad y Combustibles (SEC), representando casi el 90% de la infraestructura total."
+
+"La Superintendencia de Electricidad y Combustibles (SEC) ha intensificado sus esfuerzos para garantizar la seguridad y eficiencia de las estaciones de recarga pública de vehículos eléctricos en Chile. A la fecha, el país cuenta con 492 estaciones, de las cuales 436 han sido evaluadas por la SEC, representando casi el 90% de la infraestructura total."
+
+"En la región de Aysén se registran 17 puntos de recarga, y todos ya han sido inspeccionados por la SEC según informa la entidad estatal, logrando una cobertura del 100% en esta zona. Estas inspecciones forman parte del Plan de Levantamiento y Fiscalización de la Infraestructura de Recarga Pública para Vehículos Eléctricos, cuyo objetivo es asegurar el correcto funcionamiento y la seguridad de la red de recarga en el país."
+
+"Capacitación técnica y seguridad para el uso de vehículos eléctricos"
+
+"La fiscalización incluyó mediciones en terreno con equipos especializados en electromovilidad, realizando pruebas de seguridad y operación en estas instalaciones. Además, se llevó a cabo una capacitación técnica, tanto teórica como práctica, para el equipo de la Dirección Regional de SEC Aysén, impartida por profesionales de la Unidad de Sostenibilidad de la misma institución."
+
+"Esta capacitación fortaleció las capacidades regionales en el ámbito eMobility, asegurando que el personal esté preparado para supervisar y mantener la infraestructura de manera eficiente."
+
+"El proyecto de estaciones de carga que cambiará el mapa del país"
+
+"Gran parte de estos puntos de recarga forman parte del proyecto Electromovilidad en la Carretera Austral, una iniciativa conjunta entre Enel, Big Magazine, CORFO Aysén a través de PER Turismo, y el respaldo del Gobierno Regional de Aysén."
+
+"Este plan cubre más de 1.200 km desde Puerto Montt hasta Villa O’Higgins, permitiendo una conexión sostenible entre las localidades de la Patagonia y favoreciendo la movilidad limpia y accesible en la región."
+
+"El aumento del número de las estaciones de recarga en Chile estimula el uso de los vehículos eléctricos."
+
+"Por otro lado, la SEC informa que para garantizar la eficiencia y seguridad de las estaciones de recarga, ha actualizado el Pliego Técnico Normativo RIC N°15, que establece los requisitos para la infraestructura de recarga de vehículos eléctricos en instalaciones eléctricas."
+
+"Esta actualización busca promover el desarrollo sostenible de la movilidad eléctrica y garantizar la protección de las personas y bienes."
+
+"Además, el Ministerio de Energía publicó el Decreto 12, que aprueba el reglamento que establece la interoperabilidad de los sistemas de recarga de vehículos eléctricos."
+
+"Este reglamento busca potenciar el desarrollo de un sistema estandarizado de la red de carga pública, asegurando la entrega de información mínima sobre las características técnicas, ubicación y disponibilidad de cada cargador y sus conectores a los usuarios."
+
+"Para facilitar el acceso a la información sobre los puntos de carga disponibles, el Ministerio de Energía ha desarrollado la aplicación Ecocarga  Electrolineras en Línea. Esta herramienta permite a los usuarios conocer la ubicación y estado de las estaciones de recarga en tiempo real, contribuyendo a una experiencia de uso más eficiente y planificada."
+
+"El Director Regional de SEC Aysén, Hugo Ardiles, subrayó la importancia de la labor fiscalizadora, ya que permite verificar la operatividad y seguridad de la red regional de recarga eléctrica de vehículos y fomentar el turismo sostenible. Destacó que quienes visiten la región podrán verla como un actor clave en la promoción de la movilidad eléctrica en el país."
+
+"Enel X, en colaboración con diversas entidades, ha avanzado en la implementación de la ElectroRuta Enel X, un proyecto que contempla la instalación de 1.200 puntos de carga en todo Chile hasta 2025. Este proyecto permitirá recorrer más de 5.000 kilómetros de norte a sur, garantizando la autonomía y continuidad de circulación de los autos eléctricos."
+
+"La colaboración entre el sector público y privado seguirá siendo esencial para impulsar la electromovilidad en Chile. Proyectos como la ElectroRuta Enel X y la implementación de normativas claras y actualizadas demuestran el compromiso del país con un futuro más sostenible y con menores emisiones de carbono."

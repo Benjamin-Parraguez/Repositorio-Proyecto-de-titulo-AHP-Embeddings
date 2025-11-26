@@ -1,0 +1,13 @@
+"La respuesta esperada Cuánto cuesta cargar un vehículo eléctrico en Chile Si bien depende de muchos factores y entre ellos se encuentra la velocidad de la carga, estos son los números aproximados del costo de carga para un vehículo eléctrico en Chile."
+
+"Conocido es que los tiempos de carga de un vehículo eléctrico pueden variar dependiendo del tipo de carga y de la capacidad del empalme eléctrico al que se conecta."
+
+"Si bien en comparación con el costo del combustible convencional es más económico y la competitividad en este sentido ya está por demás de probada, la diferencia radical actual está en el tiempo que demora el proceso que culmina con la carga completa de la unidad desde media hora hasta más de veinte horas."
+
+"Es importante remarcar que al realizar un paralelismo general, las estadísticas indican que en los vehículos eléctricos, se puede estimar que consumen 16kWh por 100 kilómetros de autonomía. En diferencia, el de combustión tradicional agota entre 10 y 12 litros por cada 100 kilómetros recorridos."
+
+"En lo que refiere a carga lenta generalmente hogareña, el proceso de 0 a full demora entre 20 y 25 horas para lograr la autonomía completa de 200 kilómetros que ofrece este modelo. El costo es de aproximadamente 3000 pesos chilenos equivalentes a alrededor de 4 dólares."
+
+"En cuanto a carga semi-rápida es la infraestructura que, por ejemplo se puede encontrar en algunos centros comerciales. Esto significa un tiempo de espera de entre 4 a 6 horas para lograr un repostaje completo, tiene la característica de que habitualmente el uso de estos cargadores es gratuito."
+
+"Por último, en su experiencia, la carga rápida en el mejor de los casos demora 30 minutos. Aquí es importante remarcar que en esta condición no se puede cargar la totalidad del vehículo sino un poco más del 80% que para en el Hyundai Ioniq se traduce en autonomía de 180 kilómetros. El costo de este servicio ronda los 6000 pesos chilenos equivalentes a aproximadamente 8 dólares."

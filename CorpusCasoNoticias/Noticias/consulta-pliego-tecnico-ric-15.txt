@@ -1,0 +1,41 @@
+"El Pliego 15 establece las exigencias que las instalaciones de electromovilidad deben cumplir en el país, en línea con la política pública que busca impulsar el desarrollo de este tipo de movilidad, conforme a las metas de carbono neutralidad fijadas por el país a 2050. El objetivo del pliego técnico es establecer los requisitos de seguridad que deberán cumplir las instalaciones de consumo de energía eléctrica destinadas a la recarga de vehículos eléctricos, ubicadas en lugares públicos y privados del país"
+
+"La actualización a la normativa del 2020, contiene modificaciones asociadas a incluir nuevos estándares, exigencias para instalaciones públicas, las bases para el desarrollo de proyecto V2G (Vehicle to Grid) y exigencias para estacionamientos de edificios, entre otros."
+
+"La propuesta es bastante acertada en todo sentido, se adapta a la realidad del mercado y entrega cierta flexibilidad a los prestadores de servicios de infraestructura de carga eléctrica."
+
+"También se establecen mínimos que gran parte del sector consideraba necesarios y abre la puerta al conector GB/T atendiendo a los vehículos con este estándar que han ganado su espacio en el mercado."
+
+"El ejecutivo explicó que, de todos modos, Copec tiene que entregar soluciones para todos los actores independiente del tipo de conector y estándar que utilice."
+
+"La flexibilidad abre la puerta para poder desarrollar otros tipos de proyectos, por ejemplo, en espacios públicos"
+
+"Por otra parte, según el desarrollo del mercado, dejará de existir el mismo nivel de exigencia frente a los conectores CHAdeMO."
+
+"Por lo menos en Chile, si se analizan las tendencias y uno proyectara en el tiempo, se tendería a pensar que en carga rápida prevalecería el conector GB/T y CCS2."
+
+"A la par explicó que la mayoría de los proveedores cuentan con equipos con estos dos conectores, así que no debería suscitar demasiados inconvenientes implementarlos."
+
+"No obstante, en esta transición quedan vehículos CHAdeMO a los que se debe dar una solución."
+
+"También hizo alusión a la rapidez con la que el Ministerio de Energía y la SEC han reaccionado para actualizar este pliego según el dinamismo del mercado de infraestructura de carga."
+
+"Los cambios van en el sentido de adaptarse a cómo ha ido evolucionando el mercado, refirió el profesional sobre las diferencias entre el primer pliego y el último puesto en consulta pública."
+
+"reconoció que en los proyectos de ingeniería existían situaciones de implementación e infraestructura en edificios que eran una problemática muy grande y una nube que no se sabía interpretar."
+
+"El pliego está clarificando a los que hacemos ingeniería el cómo implementar a nivel de concepto de seguridad que ayuda a poder trabajar en forma más rápida."
+
+"En el tema del conector GB/T hay que mirar hacia afuera, y en los mercados, China es a nivel global el que implementa más productos de electromovilidad."
+
+"Cabe recordar que, con el pliego vigente, las instalaciones de GB/T se categorizan como proyectos especiales."
+
+"Como sector creemos que el pliego 15 tenía que ser actualizado ya que, por otro lado, el Ministerio de Transportes había actualizado el reglamento de seguridad para vehículos eléctricos."
+
+"Por un lado, la eliminación del concepto de electrolinera y tomar el de bien nacional de uso público en el caso de servicios de recarga pública."
+
+"Da un lineamiento a la interoperabilidad, define el voltaje mínimo de los cargadores en 900 voltios y una potencia mínima de 11 kW."
+
+"El otro punto fue un requerimiento de la Cámara Chilena de la Construcción, para que en la definición de edificios preparados para la electromovilidad se incorporen etapas."
+
+"Así, además de la capacidad eléctrica disponible para cargadores de vehículos eléctricos, también se deben contemplar canalizaciones y pasadas y definir etapas según el porcentaje de estacionamientoa que abarca dicho edificio."

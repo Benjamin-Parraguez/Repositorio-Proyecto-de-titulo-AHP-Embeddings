@@ -1,0 +1,75 @@
+"Red de carga en Chile crece 55,3%, pero en 2 de cada tres comunas faltan cargadores públicos"
+
+"Aunque el número de conectores públicos aumentó sensiblemente entre marzo y mayo, siguen concentrados en la Región Metropolitana. El 76 % de la red es de carga lenta y más del 60 % del país aún no posee infraestructura de recarga."
+
+"Entre marzo y mayo de 2025, la red de carga pública para vehículos eléctricos en Chile creció un 55,3 %."
+
+"Según el último informe del Observatorio de Infraestructura de Carga (IC), elaborado por el Centro para la Movilidad Sostenible (CMS), el país pasó de contar con 1.097 a 1.704 conectores habilitados."
+
+"Este incremento de 607 puntos marca un avance inédito para el ecosistema de electromovilidad local."
+
+"Sin embargo, las cifras también muestran que el desarrollo no ha sido equitativo a lo largo del territorio."
+
+"Más cargadores, pero en las mismas zonas"
+
+"La Región Metropolitana concentra 1.185 de los conectores totales, es decir, el 69,5 % de toda la red nacional."
+
+"Valparaíso, con 89 conectores, y O’Higgins, con 63, completan el podio, lejos de los números de Santiago."
+
+"Regiones como Aysén y Magallanes apenas cuentan con siete y cinco unidades, respectivamente."
+
+"La disparidad territorial es clara: 211 de las 346 comunas del país —el 61 %— continúan sin acceso a carga pública, lo que limita la expansión efectiva de la movilidad eléctrica."
+
+"Otro de los desafíos estructurales que persisten es la baja disponibilidad de carga rápida."
+
+"Del total nacional, un 44 % corresponde a cargadores lentos (0–22 kW) y un 32 % a semi rápidos (22–50 kW)."
+
+"Es decir, tres de cada cuatro conectores no superan los 50 kW de potencia."
+
+"La carga rápida (50–150 kW) representa el 21 % del total y la ultrarápida, apenas el 3 %."
+
+"Esta composición limita la posibilidad de realizar cargas eficientes, especialmente para usuarios que dependen exclusivamente de infraestructura pública o para flotas que requieren mayor agilidad operativa."
+
+"La red de carga, rezagada fuera de Santiago"
+
+"El informe del CMS detalla que 12 de las 16 regiones de Chile tienen menos de 50 conectores públicos."
+
+"Algunas, como Ñuble (34), La Araucanía (46) o Antofagasta (34), muestran avances parciales, pero muy por debajo de la demanda proyectada. En términos de carga rápida fuera de la RM, la situación es más crítica: solo seis regiones superan las 10 unidades."
+
+"Esta situación impacta directamente en la conectividad interurbana, que es clave para una transición efectiva en el transporte de larga distancia, turismo, logística y servicios regionales."
+
+"Un mercado concentrado en pocos operadores"
+
+"El desarrollo de la infraestructura también está marcado por una fuerte concentración."
+
+"Enel X Way y Copec Voltex controlan más del 70 % de los conectores públicos a nivel nacional. En el segmento de carga rápida, el dominio se amplía al 96 % si se suman Enex Pro y otros actores menores."
+
+"Enel X Way cuenta con 691 conectores (40,6 %), mientras que Copec Voltex suma 525 (30,8 %)."
+
+"El resto del mercado está fragmentado entre operadores que no superan el 2 % de participación, según los últimos registros de la SEC."
+
+"En paralelo al crecimiento de la red, el mes de mayo trajo consigo el inicio de una nueva política tarifaria: el cobro diferenciado por horarios."
+
+"Enel X Way incrementó su tarifa de carga rápida de $340 a $395 CLP/kWh durante la franja punta (17:00–22:59 hrs), lo que representa una suba del 16,2 %."
+
+"Otros operadores aplicaron ajustes más moderados, como un aumento del 3,9 % por parte de EVX Smart Charging."
+
+"No obstante, la introducción del factor horario pone en tensión el uso intensivo de la infraestructura en horas clave, especialmente para usuarios sin acceso a carga domiciliaria."
+
+"Falta de estandarización y experiencia fragmentada"
+
+"El ecosistema de carga pública chileno sigue operando sin un estándar técnico unificado. Cada operador define sus propios requisitos de acceso, interfaces, potencias y sistemas de pago."
+
+"Esto ha derivado en una experiencia fragmentada y poco interoperable para los usuarios, lo que se traduce en dificultades recurrentes para localizar, utilizar y pagar los servicios de recarga."
+
+"La Superintendencia de Energía y Combustibles tiene previsto avanzar en la creación de una normativa técnica común, pero aún no hay una hoja de ruta formal publicada."
+
+"Las asociaciones sectoriales, como ANAC y AChVE, insisten en que sin esta base reglamentaria no se podrá garantizar una red verdaderamente interoperable y eficiente."
+
+"Las inversiones, con fuerte presencia privada"
+
+"Actualmente, el despliegue de infraestructura depende casi exclusivamente del capital privado."
+
+"En el último año, empresas como Copec Voltex, Enel X Way y Tessa anunciaron inversiones por más de $12.000 millones de CLP, aunque la mayoría de los proyectos se concentran en zonas urbanas de alta densidad."
+
+"Desde el Gobierno, se espera que el anunciado Fondo de Infraestructura Verde comience a canalizar recursos hacia zonas con baja cobertura, pero aún no se han definido ni el mecanismo ni los plazos de implementación."

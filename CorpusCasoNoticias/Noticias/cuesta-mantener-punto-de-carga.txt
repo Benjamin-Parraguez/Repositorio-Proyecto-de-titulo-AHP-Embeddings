@@ -1,0 +1,29 @@
+"Los costos de mantenimiento de los puntos de carga públicos dependen mucho del lugar geográfico donde estén ubicados."
+
+"En tiempos donde la infraestructura de carga pública para vehículos eléctricos está dando sus primeros pasos, tener que cargar y encontrarse con algún punto que no esté operativo o que su estado sea fuera de servicio puede ser un problema atendiendo a que, en muchas ocasiones, se trata de carga de oportunidad."
+
+"En ocasiones, poder llegar a otro punto para realizar el repostaje dependerá de la autonomía disponible."
+
+"Los costos de mantenimiento de los puntos de carga públicos dependen mucho del lugar geográfico donde estén ubicados."
+
+"Si es un punto urbano, mantener un cargador operativo requiere de un plan de datos que hoy se puede encontrar en el mercado en el orden de los dos a cuatro dólares mensuales"
+
+"Este servicio es necesario para que esté reportando el cargador a través de telefonía celular."
+
+"Además requiere un mantenimiento trimestral para que el equipo esté en condiciones y eso tampoco es tan costoso."
+
+"Mantener un equipo de carga operativo en una ciudad como Santiago debe estar en el orden de los 20, 30 o 40 dólares mensuales."
+
+"Si uno lo analiza frente al costo de la inversión inicial no es tanto."
+
+"El efecto negativo que tiene que el cargador esté fuera de línea es más costoso desde el punto de vista de la imagen."
+
+"al menos 15 cargadores que al día 27 de marzo en que se escribe este artículo, en la app de Electromaps los usuarios reportan que no funcionan."
+
+"los privados están invirtiendo en este negocio y que el Estado está empezando a incentivar los puntos en zonas que no son tan atractivas o que no tienen tanto público."
+
+"La inversión de un punto de carga rápido o de mediana potencia es cara entre 40, 50, 60 o 100 mil dólares."
+
+"el promedio mundial es del orden de un cargador público cada diez vehículos."
+
+"Atendiendo los números de ventas del año pasado y las proyecciones de 2023, arriesga Este año se deberían instalar alrededor de unos 150 o 200 cargadores públicos."

@@ -1,0 +1,49 @@
+"En Chile la infraestructura de carga no está a la par del parque vehicular eléctrico"
+
+"con un parque vehicular eléctrico en constante aumento, Chile afronta la necesidad de acelerar la instalación de nuevos puntos de carga para evitar la ansiedad de rango."
+
+"Chile se enfrenta a una brecha creciente entre el parque vehicular eléctrico y la infraestructura de carga, lo que podría ralentizar el impulso de la electromovilidad en el país."
+
+"Según un informe de la Organización Latinoamericana de Energía (OLADE), Chile se encuentra entre los países con más puntos de carga por vehículo eléctrico en América Latina."
+
+"En 2024, Chile se posicionaba como el tercer país con más estaciones de carga cada 100 vehículos eléctricos, con 9,2 estaciones. Este dato es positivo en términos relativos, ya que países como Panamá y Jamaica lideran la región con 10,5 y 10,1 estaciones, respectivamente."
+
+"La relación VE/PC (vehículos eléctricos por punto de carga) en Chile, aunque favorable en comparación con el promedio regional, muestra una tendencia negativa el parque de vehículos eléctricos crece mucho más rápido que la infraestructura de carga pública."
+
+"Más que un número óptimo, lo fundamental es monitorear la tendencia. A nivel internacional, el indicador más aceptado para medir el despliegue de infraestructura de carga es la relación de vehículos eléctricos por cada punto de carga de acceso público (VE/PC)."
+
+"Un valor bajo en esta relación indica una mayor disponibilidad de infraestructura de carga por vehículo, lo que se traduce en mejores condiciones para los usuarios."
+
+"Brecha entre parque vehicular e infraestructura de carga en Chile"
+
+"En 2024, el parque vehicular eléctrico en Chile experimentó un crecimiento significativo, impulsado en parte por incentivos gubernamentales y una mayor disponibilidad de modelos asequibles."
+
+"Sin embargo, la infraestructura de carga pública no ha mantenido el mismo ritmo."
+
+"Esto genera un desajuste importante, con alrededor de 213 de las 346 comunas del país (aproximadamente dos tercios del territorio chileno) sin un solo punto de carga pública actualmente."
+
+"El crecimiento acelerado del parque de vehículos eléctricos es positivo, pero está comenzando a generar tensiones, porque la infraestructura de carga no está a la par, comenta Rivas."
+
+"Lo que significa que, a pesar de que tenemos una relación favorable de VE/PC en Chile, la brecha territorial sigue siendo un desafío importante. La falta de cargadores en muchas comunas está limitando la conectividad nacional de la movilidad eléctrica."
+
+"Desde el punto de vista de los usuarios, esto se traduce en menor disponibilidad y confiabilidad de la red de carga, lo que intensifica la «ansiedad de rango» y desincentiva la adopción de la electromovilidad."
+
+"Proyecciones de OLADE para Chile ante América Latina"
+
+"El informe técnico de OLADE sobre movilidad eléctrica en América Latina y el Caribe aporta una visión más amplia sobre el posicionamiento de Chile en el contexto regional."
+
+"Según las cifras de 2024, América Latina ha experimentado un crecimiento sostenido en la cantidad de cargadores para vehículos eléctricos, pero la brecha entre países con infraestructuras avanzadas y los que se encuentran rezagados es notoria."
+
+"El número de puntos de carga por cada vehículo eléctrico sigue siendo uno de los principales indicadores para evaluar la salud de la infraestructura en la región."
+
+"El problema no solo es la cantidad de cargadores, sino también la distribución."
+
+"Dos tercios de Chile no tienen acceso a puntos de carga públicos, lo que crea zonas de desconexión importantes. La infraestructura de carga debe distribuirse de manera más equitativa, no solo concentrarse en las grandes ciudades."
+
+"El informe de OLADE también subraya que, si bien Chile mantiene una relación favorable de VE/PC, la tendencia se está deteriorando a medida que la adopción de vehículos eléctricos aumenta más rápido que la expansión de la infraestructura de carga."
+
+"La infraestructura debe ir de la mano con la cantidad de vehículos eléctricos que se incorporan al mercado. Si no hay una expansión paralela de cargadores, el mercado de la electromovilidad podría estancarse."
+
+"Según datos de la Superintendencia de Electricidad y Combustibles (SEC), hasta mayo de 2025, Chile ha instalado un total de 1.214 puntos de carga públicos, con una potencia instalada acumulada de 14,36 MW."
+
+"De estos, 92 son de carga semirrápida, 75 son rápidos y 42 son ultrarrápidos. La distribución geográfica muestra una concentración significativa en la Región Metropolitana, con 778 puntos de carga, representando el 64% del total nacional."

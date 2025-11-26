@@ -1,0 +1,17 @@
+"Desde largas colas hasta cargadores fuera de servicio son los escenarios que se observan en algunos de los puntos de carga de tipo público que hay en Chile. La perspectiva del usuario en esta nota."
+
+"Con el avance del mercado, los cargadores de acceso público se fueron instalando en rutas y también comenzaron a proliferar en Santiago."
+
+"Los turnos de aproximadamente media hora y una sola estación de carga por cada punto implican casi una espera de por ejemplo 2 horas si hay 3 o 4 vehículos queriendo cargar antes Hay una insuficiencia en la cantidad de cargadores, que es muy notoria hoy por hoy."
+
+"Esto se refleja en una traba para los propietarios de unidades que viven en edificios y no pudieron instalar un cargador domiciliario y dependen de la infraestructura de carga pública Resulta que muchos de esos cargadores tienen una cantidad de dificultades enormes, los cargadores rápidos tienen el problema de que están siendo ocupados hoy por hoy por todos los sistemas de delivery y taxis."
+
+"Otro obstáculo con el que se enfrentan los usuarios tiene que ver con los software de las estaciones Son problemáticas a las que uno se va enfrentando como usuario al llegar a un punto de carga y que o es complicado para usar o está malo, o resulta que las mangueras que tiene ahí están incómodas."
+
+"El socio fundador del Club de Autos Eléctricos de Chile sostiene que en carga rápida el déficit es grande ya que según sus estimaciones donde se necesitarían tres puntos de carga solo hay uno."
+
+"En lo que refiere a puntos de destino que se instalan en malls o estacionamientos observa la dificultad de que en su mayoría no tienen manguera y la debe suministrar el propio cliente o pedirla prestada en el centro de informaciones. Aquí también se atiende una problemática para la activación del sistema por la cantidad de tarjetas que existen teniendo en cuenta que se debe contar con la que se corresponde a la empresa instaladora del punto."
+
+"Desde la experiencia del usuario, en un primer viaje con la incipiente instalación de las rutas de red de carga pública hace tres años atrás, ya tuvo inconvenientes a su regreso porque se había cortado la luz en la zona y la bomba de servicio tenía un equipo electrógeno que no daba energía a la electrolinera."
+
+"En este mismo viaje, el subsiguiente cargador estaba fuera de servicio y a unos 100 kilómetros de distancia aproximadamente lo que significaba llegar con riesgo de autonomía al siguiente punto."

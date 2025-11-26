@@ -1,0 +1,31 @@
+"Lo informó la superintendenta de Electricidad y Combustibles, Marta Cabeza. En 2023 se aprobó el reglamento y este año finalmente estará activa la plataforma de interoperabilidad."
+
+"Permitirá hacer un monitoreo real de la red de carga pública en Chile, estará abierta al usuario y disponible en la página web de la Superintendencia de Electricidad y Combustibles (SEC)."
+
+"En el ámbito de la electromovilidad, además, sostuvo que firmó el nuevo pliego técnico RIC N°15 Infraestructura para la Recarga de Vehículos Eléctricos que incorpora la carga bidireccional (V2G)."
+
+"La Ley Numero 21.305 del 2021 dispone que el Ministerio de Energía regule la interoperabilidad del sistema de recarga de vehículos eléctricos."
+
+"“El Ministerio de Energía fomentará que los usuarios de la movilidad eléctrica puedan cargar sus vehículos en cualquier punto de carga que pertenezca a la red de acceso público, así como en sus domicilios y centros privados de carga, velando por la eficiencia operacional del sistema de energía eléctrica”, considera el documento."
+
+"La necesidad de asegurar la interoperabilidad comenzó en países como Francia y Reino Unido, donde el parque eléctrico es relevante y se observa un amplio despliegue de los puntos de carga. Pero Chile no se queda atrás y coordinó la estrategia."
+
+"La plataforma de interoperabilidad reúne la información fija y en tiempo real de cada cargador para facilitar el intercambio de datos entre los distintos actores del sistema de recarga de vehículos eléctricos características técnicas, ubicación geográfica, medios de pago, precio del servicio."
+
+"Para ello, todo cargador de acceso público deberá estar registrado en la plataforma de interoperabilidad, indicando los datos que la SEC requiera para tal fin."
+
+"La reglamentación hace responsable al operador del correcto funcionamiento técnico de los cargadores que tenga a su cargo, debiendo mantenerlos activos en la diaria."
+
+"Los estados de los cargadores y de los conectores serán identificados como estado disponible, estado en falla, estado en mantenimiento o estado no disponible, según establece el pliego."
+
+"Para asegurar la interoperabilidad según la experiencia internacional existen al menos tres herramientas para su despliegue en la infraestructura de carga que tienen que ser complementarias acuerdo entre pares, plataforma y regulación."
+
+"Los cargadores de acceso privado no podrán ser utilizados para prestar el servicio de carga ni serán registrados en la plataforma de interoperabilidad."
+
+"No obstante, los propietarios de cargadores de acceso privado deberán relevar información a la SEC. A su vez, podrán solicitar que se modifique su calificación a cargador de acceso público siempre que se verifique que cumplan con las condiciones técnicas."
+
+"El pliego que lleva la firma de Cabeza incorpora el sistema de carga bidireccional (V2G), que permite al vehículo eléctrico entregar y extraer energía desde la red eléctrica."
+
+"El usuario puede permitir la entrega de energía a la red en las horas de mayor demanda para así reducir el estrés del sistema eléctrico en esos momentos, incluso con la posibilidad de ser remunerado por ello."
+
+"Toda IRVE (infraestructura de recarga para vehículos eléctricos) que requiera inyectar energía a la red de distribución deberá someterse al proceso de conexión definido en el Reglamento de Generación Distribuida para Autoconsumo o las disposiciones que lo reemplacen, plantea la reglamentación."

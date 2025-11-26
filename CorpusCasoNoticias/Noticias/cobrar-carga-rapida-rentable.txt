@@ -1,0 +1,41 @@
+"Hay que considerar una serie de factores como los costos de electricidad, operativos o de instalación misma de la infraestructura de carga rápida. Los números que actualmente maneja Chile."
+
+"Hay factores que pueden hacer variar el resultado como los costos de electricidad, operativos o de instalación misma de la infraestructura de carga."
+
+"En un escenario con factor de uso del 5% (equivalente a 1.920 kWh), el costo de la operación se acerca a 1.300.000 pesos chilenos mensuales."
+
+"Por tanto, el valor por kWh que debiera cobrar el CPO para no tener pérdidas asciende a 677$/kWh aproximadamente."
+
+"Pero si el factor de utilización se incrementa un 20% (equivalentes a 7.680 kWh), el costo de operación trepa a 1.800.000 pesos chilenos y el costo de carga para no tener pérdidas se reduce casi a 235$/kWh."
+
+"En una primera fase, el despliegue de la infraestructura de carga rápida será deficitario, pero fundamental para alcanzar lo antes posible el ratio requerido para su rentabilidad."
+
+"Aunque al tratarse de una nueva tecnología, aún no hay certeza sobre cómo evolucionarán los modelos de negocio o el nivel de ganancia que tendrán estos proyectos a largo plazo."
+
+"Vale otro ejemplo para el mismo caso con factor de uso del 5%, si la carga máxima ocurre en horas de punta (dos vehículos en simultáneo), el costo de operación aumenta un 35%."
+
+"Es cierto que el vehículo eléctrico recibe la mayor parte de sus recargas en viviendas particulares. Pero los puntos rápidos de uso público son herramientas indiscutibles para la autonomía en viajes largos."
+
+"A pesar de los avances en el despliegue de la infraestructura de carga, el 72% de los cargadores de acceso público de Chile se localizan en la región metropolitana. Esta concentración se repite con los cargadores rápidos de acceso público (49%)."
+
+"Así como los usuarios pueden encontrarse con problemas como que el cargador no es compatible, las estaciones de servicio donde se instalaron estos puntos de carga rápida lidiaron con sus propios demonios."
+
+"Las obras adicionales en la red y la coordinación de trabajos con las empresas distribuidoras para aumentar la capacidad eléctrica presentaron los desafíos más importantes."
+
+"En promedio, la potencia disponible en las estaciones de servicio se debió aumentar en 140 kW, lo que significó un aumento del 283% respecto a la potencia existente previamente."
+
+"En un país vasto como Chile, estos cargadores rápidos ubicados idealmente tienen un rol clave para unir regiones y viajar de una forma en que se respete tanto el ambiente como el tiempo del usuario."
+
+"Además, debido a la variedad de servicios que ofrecen las estaciones, se tornó compleja la habilitación de un cargador sin afectar temporal o permanentemente la normal operación, explican. Esto sumado al espacio limitado que tienen las gasolineras en el entorno urbano."
+
+"Algunos aspectos importantes los puntos de carga tienen una potencia de 50 kW o superior en corriente continua (DC), hay un conector CCS Combo 2 y otro conector CHAdeMO en cada ubicación, de acuerdo con la normativa vigente, y los conectores en corriente alterna (AC) deben ser Tipo 2 sin cable."
+
+"No hay instaladores y se extienden los plazos"
+
+"El proyecto no estuvo exento de complicaciones. A la falta de obras y potencia eléctrica, se sumó el poco personal idóneo para instalar los cargadores. La logística se trasladó desde la región metropolitana y eso estiró los plazos y aumentó los costos."
+
+"Por otro lado, la fabricación e importación de cargadores rápidos presentó entregas extensas, con un tiempo promedio de 209 días corridos. El proceso más rápido se realizó en 136 días, mientras que el más extenso tardó 258."
+
+"Adicionalmente, la adquisición de otros componentes necesarios para la infraestructura de carga rápida, como transformadores y tableros, también experimentó retrasos."
+
+"Es cierto que en la medida en que esta infraestructura se torne más cotidiana, su incorporación en la etapa de diseño de nuevas construcciones de acceso público permitirá reducir las tensiones."

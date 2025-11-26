@@ -1,0 +1,21 @@
+"Análisis de mercado. En Chile ya bajaron los costos de instalación de infraestructura de carga para vehículos eléctricos"
+
+"Con el objetivo de disminuir las asimetrías de información y fomentar un mercado más competitivo en materia de infraestructura de carga, la AgenciaSE publica la cuarta edición del reporte Análisis de Costos de Infraestructura de Carga para Vehículos Eléctricos."
+
+"En Chile las metas relacionadas a la adopción de la electromovilidad son ambiciosas, en donde se espera que aumente, considerablemente, la circulación de vehículos eléctricos durante los próximos años, siendo fundamental asegurar su infraestructura de carga."
+
+"Bajo este contexto, uno de los primeros esfuerzos que realizan los países es levantar información de calidad sobre sus costos."
+
+"En el caso de Chile, este estudio ha permitido observar que el mercado de la IC sigue siendo incipiente, pero que se encuentra en permanente crecimiento."
+
+"Igualmente, es importante destacar la aparición de nuevos proveedores infraestructura de carga y un aumento en número de instaladores capacitados."
+
+"Una de las principales conclusiones de este estudio es la reducción de los precios para proyectos de menor potencia en corriente alterna (AC), lo cual estaría justificado por un mayor número de proveedores en el mercado y la experiencia recopilada en este tipo de proyectos."
+
+"Al igual que el año pasado, destacamos la aparición de nuevos proveedores de infraestructura y un aumento en el número de instaladores capacitados, apunta el resumen."
+
+"Adicionalmente, y dado que este último año ha contado con más proyectos de carga rápida instalados fuera de la Región Metropolitana (RM), se hace hincapié en cómo el factor territorial aumenta los costos en los valores promedio."
+
+"En particular, las organizaciones participantes resaltan la escasa disponibilidad de instaladores capacitados en IC a nivel regional, lo que genera un aumento en los costos por traslado y estadía de profesionales."
+
+"Finalmente, se espera que con esta publicación contribuir a que los actores interesados en la electromovilidad tomen decisiones más informadas, y promover la competencia en el mercado de IC en Chile."

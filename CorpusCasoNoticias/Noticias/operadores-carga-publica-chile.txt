@@ -1,0 +1,45 @@
+"En Chile, el mercado de infraestructura de carga pública está altamente concentrado. Tres actores –Enel X Way, Copec Voltex y Enex Pro– controlan el 80% de los cargadores públicos operativos, según datos de la Superintendencia de Electricidad y Combustibles (SEC) consolidados en el Observatorio IC de marzo 2025."
+
+"Entre ellos, Enel X Way lidera con 656 cargadores, lo que representa el 60% del parque público. Le siguen Copec Voltex con 171 cargadores (16%), y Enex Pro con 48 (4%). Los restantes 222 puntos de carga instalados en la vía pública se reparten entre otras marcas proveedoras del servicio."
+
+"Tarifas bajo la lupa diferencias de hasta un 13%"
+
+"Una de las principales diferencias entre estos operadores radica en el precio por kilowatt hora (kWh). Según el relevamiento de tarifas realizado en abril de 2025, Enel X Way ofrece la más baja tanto para carga rápida como lenta."
+
+"En la modalidad rápida (más de 50 kW), Enel X Way cobra CLP 315/kWh, mientras que Enex Pro alcanza los CLP 356/kWh, una diferencia de 41 pesos chilenos, es decir un 13% más caro."
+
+"En carga lenta, los valores también varían, aunque en menor medida, con Enel X Way nuevamente presentando el costo más competitivo."
+
+"En Chile tienes algunos canales como proveedores de infraestructura de carga pero son pocos. Está bajando el precio."
+
+"«En Europa, la carga cuesta un equivalente de entre 800 pesos chilenos a 1100 el Kw/h, versus acá que son 600. Incluso en ciertos puntos pueden ser 200, 300», añade."
+
+"Enel X Way Cantidad de cargadores 656 cargadores (60% del total de cargadores públicos) Precio de carga CLP 315/kWh (carga rápida) Participación de mercado Enel X Way lidera el mercado con la mayor cuota de cargadores públicos en Chile. Con una presencia destacada en la Región Metropolitana (RM), se ha consolidado como el principal operador del país."
+
+"Su estrategia de expansión se ha centrado en los cargadores rápidos, y sigue aumentando su presencia tanto en la capital como en regiones periféricas."
+
+"Copec Voltex Cantidad de cargadores 171 cargadores (16% del total de cargadores públicos) Precio de carga CLP 356/kWh (carga rápida) Participación de mercado Copec Voltex ha logrado una sólida posición en el mercado, especialmente en zonas fuera de la Región Metropolitana, donde ha desplegado cargadores rápidos estratégicamente."
+
+"Aunque su precio por kWh es el más alto entre los tres principales operadores, su expansión fuera de la capital y la penetración en zonas rurales lo hace un jugador clave en la cobertura nacional. Copec Voltex también se destaca en la infraestructura de carga de acceso público fuera de la RM."
+
+"Enex Pro Cantidad de cargadores 48 cargadores (4% del total de cargadores públicos) Precio de carga CLP 356/kWh (carga rápida) Participación de mercado Enex Pro, aunque en tercer lugar en cuanto a número de cargadores, se ha consolidado como uno de los operadores más importantes en el sector. Su crecimiento ha sido sostenido, pero aún se enfrenta a un reto en cuanto a la cobertura fuera de la Región Metropolitana."
+
+"El precio de Enex Pro en carga rápida es el mismo que el de Copec Voltex, lo que lo coloca en el rango más alto de tarifas. Sin embargo, sigue siendo una opción competitiva en áreas de alta concentración vehicular como Santiago, aunque aún le queda terreno por cubrir en zonas periféricas y rurales."
+
+"Instalar un cargador de carga rápida implica una inversión significativa. De acuerdo al estudio del Ministerio de Energía, implementar un punto de carga de 50 kW DC tiene un costo medio de USD 55.986, mientras que si se requiere un aumento de empalme, puede escalar hasta los USD 83.645 para cargadores de 60 kW, y hasta USD 117.220 para los de 120 kW."
+
+"La estructura de costos se divide principalmente en tres componentes: el cargador, la instalación y el empalme."
+
+"Este último puede representar un gasto considerable si se necesita reforzar la red existente. Las obras civiles, eléctricas, y la ingeniería del proyecto también influyen en la inversión total."
+
+"Los precios finales de los distintos puntos de carga también varían. Según especialistas consultados por Mobility Portal Latinoamérica, esto puede responde a tres factores clave"
+
+"Modelo de negocio Algunos operadores priorizan la masificación del servicio con precios bajos, mientras que otros apuestan por retorno de inversión más acelerado."
+
+"Tipo de cargador Equipos de mayor potencia implican mayor costo de instalación y mantenimiento."
+
+"Cobertura regional Operar fuera de la RM puede aumentar hasta un 40% los costos logísticos y de implementación."
+
+"Una fuente relacionada con la cartera de Energía de la Nación de Chile revela a este medio que las diferencias de precios entre los operadores responde a un acto de especulación por parte de las empresas prestadoras del servicio."
+
+"Según su visión, los operadores bajan los precios para quedarse con el negocio y dificultar la instalación de otros actores."
