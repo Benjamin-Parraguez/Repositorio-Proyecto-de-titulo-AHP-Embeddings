@@ -1,0 +1,93 @@
+“Chile mantiene políticas de Estado en energía desde 2015, con metas a 2050 y continuidad entre gobiernos. La carbono‑neutralidad antes de 2050 es obligación por Ley Marco de Cambio Climático, lo que exige transformar el sistema energético con consensos público‑privados y académicos.”
+
+“La estrategia energética se apoya en cuatro pilares: mayor penetración de ERNC en la matriz eléctrica, desarrollo de hidrógeno verde para sectores difíciles de electrificar, eficiencia energética como política transversal, y expansión de la electromovilidad.”
+
+“En 2024 Chile registró horas del día con participación de energías renovables cercanas al 94% en la generación eléctrica, mostrando el avance estructural de la matriz.”
+
+“El avance en electromovilidad se organiza mediante una estrategia nacional y una hoja de ruta conjunta con el MTT. Dos líneas destacan: transporte público (buses) y penetración en flotas privadas/última milla. Se impulsa infraestructura interurbana, con plan de carga para la Macrozona Norte.”
+
+“Santiago pasó de 779 buses eléctricos en 2022 a 3.238 en 2025. La meta de cierre de gobierno es 4.400 buses eléctricos (≈68% de la flota de Red Movilidad), resultado de una política de Estado sostenida por tres administraciones sucesivas.”
+
+“La última licitación generó ahorros superiores al 15% del gasto operativo. Se destaca además el aumento de conductoras: de ~900 al inicio del período a 2.156 mujeres al volante, con mejoras percibidas en seguridad, empatía y eficiencia.”
+
+“Se pilotea el uso de reconocimiento facial para pago y validación de beneficios (estudiantes, adultos mayores), como parte de iniciativas de innovación y control de evasión en transporte público.”
+
+“La ciberseguridad es prioritaria: un blackout puede forzar a los buses a suplir al Metro. Se requiere proteger transmisión de datos, disponibilidad y operación segura del sistema.”
+
+“Los vehículos eléctricos son 'computadoras sobre ruedas' con más de 100 millones de líneas de código y actualizaciones OTA. Una vulnerabilidad puede comprometer la seguridad física y operativa del vehículo.”
+
+“Las OTA mejoran rendimiento y corrigen fallos, pero abren vectores de ataque, especialmente en la cadena de suministro. Requieren cifrado fuerte, verificación de integridad y autenticación robusta extremo a extremo.”
+
+“Se documentó una vulnerabilidad en 'mobile key' que permitía clonar la llave criptográfica mediante dispositivos de bajo costo. Fue corregida, pero evidencia la necesidad de buenas prácticas criptográficas y rotación de identificadores.”
+
+“En 2023 la división Gabriela Mistral enfrentó la detención de camiones autónomos por un ataque al sistema de control del proveedor. La operación se afectó ~72 horas, con pérdidas productivas y la necesidad de contingencias 'offline' con camiones no autónomos.”
+
+“Se recomienda separar ciberseguridad de TI y reportar a gerencia/riesgo. Usar marcos e ISOs existentes: ISO 21434 para ciberseguridad automotriz; NIST CSF y NIST SP 800‑161 R1 para gestión de riesgos de cadena de suministro; implementar SGSI y respuesta a incidentes.”
+
+“El Art. 41 de la Ley de S.A. exige diligencia a directores frente a riesgos, incluyendo ciber. En Chile aplican la Ley 20.393 (responsabilidad penal de la persona jurídica), Ley 21.459 (delitos informáticos), Ley 21.663 (marco de ciberseguridad para infraestructura crítica) y la Ley 19.628 (protección de datos; multas desde 01‑12‑2026).”
+
+“El 'Business Email Compromise' (BEC) es el delito de mayor crecimiento; el ransomware detiene operaciones entre 2 y 7 días. El retorno completo a la normalidad puede promediar ~69 días, subrayando la necesidad de planes de continuidad y respaldos verificados.”
+
+“La dirección debe fijar el 'tone at the top', exigir métricas y hojas de ruta de madurez ciber. Tras incidentes, no pagar ransomware y elevar postura con controles priorizados (p. ej., CIS Controls) y, si corresponde, ciberseguros para riesgo residual.”
+
+“La red pública crece de forma constante: ~1.900 puntos de carga y cobertura de carga rápida en todas las regiones. Nuevos operadores se suman (energéticas, retail, otros), junto a una base mayor de carga privada.”
+
+“Chile definió estándar tipo 2 en AC y CCS2 (Combo 2) en DC para red pública. En ciudad se exige al menos un conector estándar por estación; en carretera, al menos la mitad. Esto evita fragmentación y mejora la experiencia del usuario.”
+
+“En AC, los usuarios con tipo 2 pueden cargar en el ~99% de la red pública. En DC, los vehículos con CCS2 acceden al 100% de los cargadores rápidos. Estándares no adoptados (GB/T, tipo 1, CHAdeMO) tienen acceso muy limitado en la red.”
+
+“La regulación de interoperabilidad elimina barreras de 'jardines cerrados': acceso sin contrato, pagos por QR o tarjeta y transparencia tarifaria. Todos los cargadores públicos se declaran ante SEC (ventanilla única), habilitando datos en tiempo real.”
+
+“SEC opera una plataforma con estado en vivo de cargadores (disponible, en uso, mantención, precio) y una API para que terceros creen apps y planificación de rutas. Se integra con Google Maps para que el usuario reciba navegación y carga óptima.”
+
+“El parque liviano/mediano 2023 fue ~5,8 millones (6,0 millones en 2024), con antigüedad promedio cercana a 10 años. ~60% del parque tiene menos de 10 años; 30% entre 10–20; 10% más de 20 años.”
+
+“Los vehículos más antiguos, aunque son menos, generan proporcionalmente más NOx y MP2.5 por normas previas: el 30% del parque explica ~56% del MP2.5. La transición a tecnologías más limpias requiere renovar el parque, además de electrificar.”
+
+“Chile adoptó Euro 6C en 2024 y actualiza la etiqueta de eficiencia. La Ley de Eficiencia Energética eleva el rendimiento promedio; en 2024 se alcanzó ~16,6 km/l en los livianos vendidos.”
+
+“Propuestas del sector: permiso de circulación 'cero' por dos años para BEV, deducibilidad de IVA para vehículos eléctricos de empresa (similar a pickups), y expansión acelerada de infraestructura de recarga.”
+
+“Se implementan 'patentes verdes' para BEV y PHEV, facilitando fiscalización y futuras zonas de bajas emisiones donde solo circulen vehículos cero emisiones.”
+
+“Hasta agosto de 2025 se vendieron ~21.000 unidades de cero/bajas emisiones. En enchufables (BEV+PHEV) se registran ~5.215 (+77% interanual). Hay 46 marcas y ~102 modelos BEV; 20 marcas y 37 PHEV.”
+
+“Los enchufables representan ~2,6% del mercado total; dentro de ellos, los BEV ~1,7%. La categoría electrificada total (incluyendo no enchufables) ronda el 10,6%.”
+
+“Marcas líderes en enchufables: BYD, Volvo y Tesla. En BEV destacan Volvo EX30 y Tesla Model Y/Model 3; en PHEV, BYD Shark, Volvo XC60 y DFSK 600D.”
+
+“Crece la potencia de carga de los vehículos: una fracción importante soporta ≥120 kW en DC. En autonomía declarada, ~45% de los BEV nuevos supera 400 km, suficiente para el uso diario con 1–2 cargas por semana.”
+
+“Aun con fuerte origen de fabricación en China, el mercado chileno converge a estándares IEC: CCS2 en DC y tipo 2 en AC; se reduce la presencia de GB/T y CHAdeMO.”
+
+“Países de referencia muestran mayor adopción de enchufables: Portugal ~31%, España ~18%, Uruguay ~15%, Tailandia ~16%, Brasil ~6%, Colombia ~8%, México ~2%. Chile está rezagado en livianos frente a su liderazgo en buses.”
+
+“Proyección ANAC: ~20.000 enchufables/año en 2028 (~6,1% de share). En otros mercados, tras superar ~5% de participación, el crecimiento suele acelerarse (curva S), condicionado por incentivos e infraestructura.”
+
+“REM opera una planta en Rancagua con capacidad para >200 buses cero emisiones por año y ~70 colaboradores, orientada a fabricar para Chile y exportar.”
+
+“Se validó la reconversión de buses diésel a eléctricos en ambiente minero severo (barro ácido, polvo, pendientes, agua). La operación piloto demostró viabilidad técnica y seguridad en interior mina.”
+
+“Tras licitación, se adjudicó >100 buses nuevos 0 km para electrificar el transporte interior mina. Actualmente operan >104 unidades, con >8 millones de km acumulados y ~3.000 tCO2 evitadas/año.”
+
+“Ciclos de carga típicos: 20–80% en ~35 minutos; consumo ~0,65 kWh/km; autonomías en torno a 200 km; ~55.000 km recorridos por unidad/año. Hay infraestructura de carga dedicada dentro de faena.”
+
+“Componentes con protección IP68+ contra polvo y agua; uso de acero inoxidable y compuestos para corrosión; motores de alto torque para pendientes y altura. Telemetría y OTA seguras para mantenimiento predictivo.”
+
+“Se opera el primer bus eléctrico en la Antártica con >2 años de servicio continuo en frío extremo. En episodios de temperaturas muy bajas, el bus eléctrico mantuvo servicio cuando diésel no encendió.”
+
+“Se fabricó en Chile un bus urbano para Brasil, con certificación de origen y homologación en curso, orientado a climas calurosos y alta demanda de refrigeración.”
+
+“Se desarrolló un bus eléctrico con extensor de rango a hidrógeno (fuel cell Toyota Mirai) a 350 bar. Entrega ~600 km de autonomía por ciclo, emitiendo solo vapor de agua.”
+
+“Ingreso de Marcopolo como socio refuerza escala y proyección regional, combinando desarrollo local con liderazgo global en carrocerías.”
+
+“En mercados maduros, 60–85% de los usuarios carga en casa. Migrar el hábito desde 'gasolinera' a 'residencia' es clave para la satisfacción y costos: la carga residencial puede ser ~40% más barata que la pública rápida.”
+
+“El empalme residencial típico (~5,5 kW) puede ser inferior a la potencia de un wallbox estándar (7 kW), por lo que se requieren soluciones de gestión de carga y balanceo.”
+
+“En edificios, los tableros de servicios comunes suelen usar solo 20–40% de su capacidad, dejando margen técnico para infraestructura compartida si se gestiona adecuadamente.”
+
+“Se proponen sistemas que administran cualquier punto eléctrico (enchufe o cargador), con alta usabilidad: QR para pago, habilitación de toma y registro de energía, sin requerir app dedicada.”
+
+“Para carga en espacios comunes, la RIC‑15 exige autorización del administrador y la Ley de Copropiedad puede requerir acuerdos del 66% de propietarios, lo que demanda gobernanza y estándares para evitar proliferación de soluciones ad‑hoc.”

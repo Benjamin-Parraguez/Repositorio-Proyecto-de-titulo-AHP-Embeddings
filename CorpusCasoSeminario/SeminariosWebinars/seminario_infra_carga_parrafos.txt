@@ -1,0 +1,85 @@
+“Actualmente nos encontramos en un cambio hacia el uso de las llamadas energías limpias; Chile se encuentra en un proceso de descarbonización de la matriz energética con fecha de caducidad para este tipo de generación de energía; en este aspecto, el uso de los combustibles fósiles da paso a la electricidad como matriz energética y, a la luz de los acelerados cambios y del desarrollo de nuevas tecnologías —por ejemplo, el almacenamiento de energía— se ha impulsado la fabricación de baterías, consideradas como uno de los componentes principales dentro del desarrollo de los vehículos eléctricos con alto potencial, lo que junto a otros avances tecnológicos empuja el crecimiento de la industria de los vehículos y, directamente, de la electromovilidad.”
+
+“Actualmente, nuestro país tiene un desafío importante: llegar a la carbono-neutralidad; tenemos metas claras y un periodo de tiempo acotado para hacerlo; dentro de eso, uno de los principales elementos que utilizan la energía en nuestro país es el transporte —alrededor del 36,6% de la energía que se ocupa en nuestro país viene del transporte—, cuya matriz energética en particular es sobre el 98% de combustibles fósiles; por ende, ese 36,6% de la energía aporta con el 25,5% de los gases de efecto invernadero que produce nuestro país; es por eso que, dentro de la hoja estratégica para la carbono-neutralidad, existen varios pilares, entre ellos la electromovilidad, y se pretende que de aquí al año 2035 el 100% de los automóviles nuevos que se vendan —tanto para particulares como para transporte público— pertenezcan a la electromovilidad.”
+
+“Como les decía, estamos creciendo también en nuestra adquisición de vehículos eléctricos; en el año 2022, comparado con 2021, hubo un crecimiento sobre el 300% en la venta de vehículos eléctricos; a pesar de ello, comparado con el parque automotriz general del país, sigue siendo una pequeña porción.”
+
+“Lo que se pudo detectar es que hay algunos problemas que debemos abordar; por ejemplo, la brecha de competencias y conocimiento del capital humano del sector productivo frente a los desafíos de la electromovilidad; esto se refiere a que, si bien se sabe que existe la electromovilidad, requiere elementos extra para poder implementarla.”
+
+“Un desafío muy importante son los aspectos de seguridad; los vehículos eléctricos consideran el uso de baterías que, en caso de desperfecto o cortocircuito, son muy peligrosas; los incendios eléctricos pueden durar varias horas; además, no es como actualmente se hace en vehículos convencionales —abrir el capó y desconectar a tensión de seguridad—; en el área eléctrica, las baterías son muchas celdas y a una tensión que no es de seguridad, por lo tanto se necesita personal calificado que pueda realizar esas maniobras.”
+
+“Otro problema es el bajo conocimiento técnico que existe en electromovilidad en los pequeños talleres automotrices; actualmente, la mayoría de los talleres se enfocan en los vehículos de combustión interna; no existe mucha opción en el mercado respecto de la reparación y mantenimiento de vehículos eléctricos; es muy complejo encontrar a alguien que tenga los conocimientos específicos que requiere el mantenimiento y la reparación de vehículos de estas características.”
+
+“Otro problema detectado es la baja articulación y difusión en el sector público-privado para abordar la Estrategia Nacional de Electromovilidad; faltan lineamientos respecto de la educación técnico-profesional sobre electromovilidad.”
+
+“Particularmente en los liceos técnico-profesionales no existe la oferta de técnico en electromovilidad, lo que nos impide preparar a los profesionales que se requieren en esa línea; además, en la educación de pregrado a nivel universitario tampoco está muy abierta la oferta desde el punto de vista de la electromovilidad.”
+
+“Lo que se pretende con este proyecto es instalar capacidades para la electromovilidad en la región del Biobío; esto se hará a través de un proceso fortalecido de difusión, transferencia, fortalecimiento de capacidades tecnológicas y generando sinergias, culturizando a los actores regionales relevantes.”
+
+“Se ejecutará un programa de transferencia tecnológica que considera la implementación de una plataforma de formación para técnicos profesionales, además de charlas de difusión de tecnologías y de políticas regionales y nacionales respecto de la electromovilidad; se pretende también instalar una plataforma técnico-formativa.”
+
+“Además, se entregarán insumos a la región del Biobío para generar una política regional de electromovilidad con tres propósitos particulares: primero, que sea la primera política regional de electromovilidad; esto se logrará mediante la conformación de una mesa regional con actores relevantes de los ámbitos ya mencionados —educación, sector empresarial y sector público— y una plataforma digital alineada con la política nacional y técnico-educativa que soporte la actividad del proyecto.”
+
+“También se entregarán lineamientos para fortalecer las capacidades de capital humano a nivel de dirección, supervisión y operativo; se realizará un manual de programas de fortalecimiento de las capacidades técnico-profesionales.”
+
+“Se va a realizar un proyecto de 24 meses que, gracias al Gobierno Regional, aporta 715 millones; la Universidad Técnica Federico Santa María aporta 71 millones y medio; en total, 786 millones y fracción.”
+
+“Uno de los ejes es capacitar y transferir conocimiento a través de un diplomado en vehículos eléctricos; se realizarán programas de transferencia tecnológica para incorporar capacidades en pequeños talleres automotrices, de modo que puedan hacerse cargo del mantenimiento y reparación de vehículos eléctricos.”
+
+“Además, se entregarán todos los insumos necesarios para realizar la primera política regional de electromovilidad del Biobío y se implementará un plan comunicacional para la difusión de las tecnologías que existen en electromovilidad hasta hoy.”
+
+“Esta plataforma digital que se generará incluye elementos de autoformación en electromovilidad, con videos tutoriales y cápsulas de enseñanza sobre el funcionamiento de los vehículos y otros aspectos relevantes.”
+
+“La electromovilidad es una gran oportunidad para generar economías de escala, menor costo para la ciudadanía y mayor inserción laboral de personas que se aventuren en este gran desafío; con la electromovilidad avanzamos hacia una mejor calidad del aire, un futuro más verde y un transporte más inclusivo.”
+
+“Finalmente, son las agencias las que están imponiendo normativa respecto a los motores y muchas exigencias; se exige eficiencia muy alta y, al mismo tiempo, potencias específicas mayores; esto ha llevado a trabajar para lograr motores más eficientes con tensiones más altas —que no son seguras—, por lo que la manipulación de las baterías ya es compleja y con tensiones más altas será más compleja.”
+
+“La llegada de la electromovilidad produce un cambio de paradigma respecto a cómo se realiza la carga de un vehículo eléctrico; hoy en día podemos cargar en la casa, en el trabajo, entre otros; estudios internacionales muestran que el 60% de la carga se realiza en el domicilio, un 30% en el trabajo, un 10% en otros lugares e incluso un 3% solo en ruta.”
+
+“Si los clasificamos de izquierda a derecha, podríamos decir que parten desde el más pequeño y simple hasta el más grande y complejo, desde el más barato al más caro, y desde el menos potente —que carga más lento— hasta el más potente; muy bien lo representan los tiempos que aparecen arriba; un ejemplo: batería de 46 kWh, donde, por ejemplo, uno de 50 kW demoraría alrededor de 45 minutos.”
+
+“El cargador se especifica y se elige en base a los requerimientos operacionales del vehículo eléctrico y también a su especificación técnica; si, por ejemplo, nos dirigimos a un electroterminal, lo más seguro es que encontremos un cargador ultrarrápido.”
+
+“Cuando hablamos de cargar en corriente alterna, desde el cargador sale CA y al vehículo entra CA; cuando hablamos de cargar en corriente continua, desde el cargador sale CC y al vehículo entra CC.”
+
+“En Estados Unidos encontraremos, por ejemplo, el Tipo 1, un conector monofásico con potencia máxima de hasta 7,2 kW; en Europa normalmente encontraremos el Mennekes o Tipo 2, con potencia máxima de hasta 43 kW en trifásico; en países asiáticos seguramente encontraremos el conector tipo GBT.”
+
+“En el caso de un conector tipo CHAdeMO, se realizan transferencias de hasta 400 kW; los conectores del tipo CCS1 y CCS2 permiten en su parte superior cargar el vehículo en CA y, utilizando su parte inferior, cargar en CC; de ahí el nombre de sistema de carga combinada; quede claro: o se carga en alterna o en continua, no simultáneamente.”
+
+“Como nuestro país es importador de tecnología, traemos vehículos norteamericanos, chinos y europeos; por eso hoy es usual encontrar en Chile diferentes tipos de conectores; en el futuro, se esperaría estandarización, análogo a lo que pasó con los cargadores de celulares, donde hoy mayoritariamente se usa el conector Tipo C.”
+
+“La batería del vehículo eléctrico siempre se alimenta de corriente continua y la red eléctrica siempre provee corriente alterna; necesariamente debe existir un elemento que haga esta transformación: el rectificador; cuando cargamos en CA, el rectificador se encuentra dentro del vehículo eléctrico, con limitaciones de peso y tamaño, lo que implica también limitaciones de potencia.”
+
+“El BMS es el sistema de gestión de la batería; gestiona cómo entra la energía hacia la batería y cómo sale de esta, y cuida su estado para prolongar la vida útil.”
+
+“La gran diferencia entre cargar en continua y en alterna es que, en CC, el rectificador se encuentra fuera del vehículo eléctrico —específicamente en el cargador—; por tanto, ya no tiene limitaciones de peso ni tamaño, tiende a ser mucho más grande y más potente; esa es la clave de por qué cargar en CC es mucho más rápido.”
+
+“Cuando observamos los conectores que interactúan para una carga en continua, en su parte inferior se tienen dos polos —positivo y negativo— que suministran la corriente continua hacia el vehículo eléctrico; se mantiene el piloto de proximidad y el control piloto.”
+
+“Esta infraestructura empezó a desarrollarse a partir de 2018 y cada año se ven más proyectos; actualmente en Chile existen un poco más de mil cargadores, prácticamente la totalidad centralizados entre la Región de Valparaíso y el Maule; más de 1600 cargadores están en la Región Metropolitana.”
+
+“El 81% de estos cargadores se encuentra en la Región Metropolitana; hoy existen 239 comunas en Chile que no disponen de ningún cargador de acceso público.”
+
+“Actualmente, la infraestructura de carga está más bien centralizada en el Gran Concepción y algunos cargadores en la Ruta 5; se contabiliza un total de 51 cargadores instalados en la región, de los cuales 20 son de acceso público y 31 de acceso privado; existe una brecha: 28 de las 33 comunas no tienen ningún cargador de acceso público.”
+
+“El programa Mi Taxi Eléctrico busca fomentar la electromovilidad en el transporte público menor; entregamos, en primer lugar, cofinanciamiento para la compra del taxi eléctrico y, en segundo lugar, habilitamos un cargador residencial; ejecutamos los primeros 50 taxis básicos; actualmente estamos ejecutando la segunda versión, con la que esperamos llegar a 100 vehículos; estamos trabajando en la preparación de la tercera versión y vamos 100% hacia las regiones, buscando llegar con 1000 vehículos a Antofagasta, Atacama, O’Higgins y Biobío.”
+
+“El programa Más Carga Rápida es el primer cofinanciamiento público-privado, fomentando y acelerando inversiones en infraestructura de carga rápida a nivel país; vamos desde Arica hasta Punta Arenas y también habilitaremos el primer cargador rápido en la isla de Chiloé; son 32 puntos de carga de 60 kW, que permiten una carga en menos de una hora; esperamos que estuvieran operativos a finales de 2023.”
+
+“Más Carga Pública busca generar una dinámica y un programa estructurado con pauta clara; trabajamos en tres ejes: planificación —con una primera versión de plan nacional de infraestructura de carga—, capacitación de instaladores —con los primeros TDR para ejecutar capacitación focalizada en el segmento residencial— y aceleración de inversiones.”
+
+“Entre las brechas: escasez de instaladores con experiencia —el know-how está en la Región Metropolitana, lo que agrega costos y complejiza la operación—, temas de regulación y coordinación público-privada, llegada de vehículos con distintos estándares, disponibilidad de espacios de acceso público, elevados costos de inversión y operación, complejidad de las tarifas eléctricas —por ejemplo, 150 kW de potencia— y muy baja tasa de utilización.”
+
+“La Estrategia Nacional de Electromovilidad definió que al año 2035 el 100% de las nuevas incorporaciones de transporte público, así como el 100% de las nuevas ventas de vehículos livianos y medianos, sean eléctricas; la tasa de penetración hoy es menor al 1%, por lo que hay una gran brecha que abordar.”
+
+“Queremos entender el impacto que esta nueva tecnología tendrá en nuestra red de distribución; desde 2017 se investiga este fenómeno: qué sucede en un condominio, en un mall, en las redes de media tensión, en una electrolinera si, por ejemplo, una compañía pasa a vender electricidad para carga.”
+
+“Veamos el caso residencial: con potencias de 6 kW por automóvil y 75 vehículos cargando, el alimentador empieza a solicitar más carga; al aplicar este ejercicio, vemos una sobrecarga de 700% en las líneas del condominio; por lo tanto, sugerimos separar circuitos y colocar dos subestaciones más de 200 kVA.”
+
+“En el sector comercial —por ejemplo, un mall en Osorno con 700 estacionamientos—, con 100 o 200 autos, los perfiles de tensión se encuentran holgadamente dentro de norma; sin gestión de demanda, el comportamiento es uno; si aplicamos gestión de demanda y almacenamiento de energía para evitar consumo en horario punta, podemos estimar mayores costos sin gestión, con incrementos de hasta 300% en potencia.”
+
+“En una electrolinera urbana —servicentro—, los perfiles de tensión se mantienen dentro de parámetros; al agregar 12 a 14 vehículos cargando simultáneamente, la saturación del conductor sube a 70%; con 25 vehículos, se llega a 85% de la capacidad del conductor.”
+
+“En sectores rurales, los alimentadores son menos robustos, mallados absolutamente radiales y, a veces, bifásicos; en el caso base, ya casi no se cumple la normativa; con diez autos, se sale definitivamente de los perfiles de tensión y se alcanza 84%; en el tramo más cargado del alimentador se llega a 115% con esos diez autos.”
+
+“Conclusiones: los centros comerciales se caracterizan por ser más robustos; la gestión de la demanda es una opción; en baja tensión está el problema, porque hay un crecimiento inorgánico: cada uno va comprando los autos como le parece y, desde el lado de la distribuidora, es más difícil entender el fenómeno y proyectar estos aumentos de capacidad.”

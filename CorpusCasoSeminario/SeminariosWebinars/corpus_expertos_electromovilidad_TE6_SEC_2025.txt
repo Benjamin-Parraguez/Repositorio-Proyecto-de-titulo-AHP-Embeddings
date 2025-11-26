@@ -1,0 +1,139 @@
+“La electromovilidad en Chile avanza con una regulación específica (REC 15) y fiscalización activa de la SEC; el objetivo central es garantizar instalaciones seguras y conformes para infraestructura de recarga de vehículos eléctricos (IRVE).”
+
+“Tendencias globales relevantes: crecimiento de electrificación del consumo energético, mayor participación de energías renovables, descarbonización del transporte y aumento sostenido de ventas de vehículos eléctricos, con implicancias directas en demanda de infraestructura de carga.”
+
+“En Chile, la venta de vehículos eléctricos ha crecido fuertemente en los últimos años y aumenta la necesidad de carga residencial y pública; la evidencia internacional indica que cerca del 80% de las recargas se realiza en la vivienda del usuario.”
+
+“El diseño de una IRVE debe dimensionarse a partir del uso diario del vehículo (kilómetros recorridos) y la disponibilidad horaria de carga; para 35–50–70–150 km/día, las potencias de referencia mínima son aprox. 1,5 / 2,3 / 3,5 / 7,4 kW respectivamente.”
+
+“Modos de carga según normativa: Modo 1 (no autorizado para vehículos eléctricos), Modo 2 (cable de viaje con protección y control, usualmente limitado), Modo 3 (cargadores en CA en vivienda/comercio), Modo 4 (cargadores en CC, electrolineras y alta potencia).”
+
+“La normativa admite la instalación de un segundo empalme dedicado exclusivamente a la recarga de vehículos eléctricos; esto puede ser preferible cuando la potencia requerida del cargador supera con holgura la capacidad del empalme existente.”
+
+“La interconexión puede realizarse al tablero existente si todos sus circuitos cuentan con protección diferencial, los conductores están protegidos contra sobrecarga y se verifican puntos calientes (inspección termográfica para instalaciones >10 kW).”
+
+“Alternativamente, puede instalarse un tablero nuevo entre el equipo de medida y el tablero de consumo existente, con protección termomagnética omnipolar general y protecciones diferenciadas para consumo e IRVE, incluyendo protección diferencial adecuada.”
+
+“Conductores: deben dimensionarse por capacidad de corriente y método de instalación conforme al pliego RC4 (tabla 4.4); el conductor debe estar protegido contra sobrecarga y cortocircuito y seleccionado según el método de canalización aplicado.”
+
+“Puesta a tierra: todas las partes metálicas de la IRVE deben conectarse a tierra de protección; para instalaciones nuevas se exige medición por método de caída de potencial; el método de pinza se acepta en inspección de sistemas existentes.”
+
+“Protecciones diferenciales: no se admite tipo AC; se exige tipo A (o superior, p. ej. F o B) con sensibilidad acorde al caso; para Modo 3 en CA, diferencial tipo A ≤30 mA más dispositivo que detecte fuga continua ≥6 mA (integrado en el SAE o equivalente).”
+
+“Para instalaciones de mayor potencia (p. ej. centros de carga), los diferenciales tipo A/B de mayor umbral (p. ej. 300 mA) pueden utilizarse según normativa y diseño, con relés y toroides correctamente cableados, parametrizados y probados.”
+
+“Requisitos de conectores en servicio de recarga pública: los cargadores Modo 4 instalados en bienes nacionales de uso público o carreteras interurbanas deben cumplir cuotas mínimas de conectores de alta compatibilidad (p. ej. CS Combo 2).”
+
+“Gestión de carga: cuando la potencia del empalme es limitada, un sistema de gestión puede modular corriente al cargador en tiempo real para no sobrepasar la capacidad disponible y aprovechar valles de consumo nocturno sin sobredimensionar empalme.”
+
+“Factibilidad técnica con la distribuidora: la respuesta estándar es de 8 días hábiles sin costo; si requiere estudio, pueden agregarse 15 días, y +10 días si hay visita a terreno; ante atrasos, reclamar a la empresa y, si procede, a la SEC.”
+
+“Selección de productos: todos los SAE/cargadores instalados deben figurar como autorizados por la SEC mediante resolución exenta; verificación previa en el buscador de productos de electromovilidad evita rechazos y retrasos en proyecto.”
+
+“Montaje y disposición: los cargadores Modo 3/4 deben cumplir requerimientos de instalación, alturas, protección mecánica e IP, considerando rutas de cable seguras; en Modo 4 se exige que la manguera no repose sobre el piso en condición de reposo.”
+
+“Tableros: deben contar con cubierta cubreequipos, rotulación indeleble y suficiente espacio para crecimiento (recomendación habitual de dejar ≥25% de reserva en gabinetes nuevos); conexiones deben respetar torque y evitar puntos de falla.”
+
+“Rotulación y señalética: la IRVE debe tener identificación clara de protecciones, circuitos y puntos de desconexión; en recarga pública se exige información visible de uso, contacto de soporte y reglas operativas del punto.”
+
+“Iluminación mínima en áreas de IRVE: como referencia, 50 lux en interiores y 20 lux en exteriores para operación y seguridad, facilitando vigilancia y reducción de vandalismo o robo de cableado.”
+
+“Declaración TE6: es el trámite de comunicación/energización de IRVE ante la SEC; reemplaza el T1 cuando se trata de un segundo empalme exclusivo para electromovilidad; se declara en plataforma separada del T1.”
+
+“TE6 — Motivo de declaración: si la instalación ya cuenta con un TE6 previo, se debe declarar como ‘presentación con TE6 previo’ ingresando el folio original para mantener historial y evitar rechazo por duplicidad.”
+
+“TE6 — Unitaria vs múltiple: ‘unitaria’ aplica aunque existan varios cargadores en una misma dirección; ‘múltiple’ aplica cuando se declaran varias direcciones/propiedades similares (p. ej. varias casas/deptos con diseños idénticos).”
+
+“TE6 — Público vs privado: ‘público’ refiere a acceso libre a terceros con condiciones y cobro definidos; ‘privado’ es de acceso restringido (p. ej. residentes o propietario); la clasificación impacta interoperabilidad y publicación de datos.”
+
+“TE6 — Edificios y servicios comunes: para alimentar una IRVE desde servicios comunes se requiere autorización formal del comité/administración, adjunta en la declaración; su ausencia conlleva rechazo y potencial sanción.”
+
+“TE6 — Coherencia de potencias: la potencia total declarada en el formulario debe coincidir con el cuadro de cargas del plano; inconsistencias provocan observaciones y rechazos hasta corregir.”
+
+“TE6 — Cargador y conectores: al agregar un SAE se elige marca/modelo desde el registro de productos autorizados y, si aplica, se configura potencia máxima (limitación de software o DIP switches), cantidad de salidas y simultaneidad.”
+
+“TE6 — Documentación: adjuntar diagrama unifilar, memoria técnica explicativa, informe fotográfico (de lo macro a lo micro: empalme, canalizaciones, tableros, protecciones, conductores y SAE), y manual de activación para recarga pública.”
+
+“Errores críticos frecuentes: información falsa o inexacta en declaración o planos, subdimensionamiento de conductores, diferenciales que no operan, falta de puesta a tierra de partes metálicas y uso de productos no autorizados.”
+
+“Conductores subdimensionados: deben cumplir con la corriente nominal de las protecciones (hasta 630 A, el criterio es conductor ≥ 1,1 × corriente nominal del SAE/protección), y respetar método A1 para cableado interno de tableros.”
+
+“Uso incorrecto de conductores: no utilizar H07Z1 (o equivalentes) como alimentadores/su-alimentadores si el pliego no lo permite; seleccionar tipos admitidos conforme a RC4 y al método de instalación.”
+
+“Interconexión indebida: derivaciones improvisadas (colas de barra, bornes no aptos) o ausencia de barras de distribución/neutro vulneran la norma; instalar un tablero general adecuado con barras y protecciones omnipolares.”
+
+“Diferenciales mal instalados o parametrizados: relés con toroides mal cableados o salidas de disparo mal conectadas impiden la apertura ante fuga; se exige prueba con instrumento específico y/o botón de test, según RC19.”
+
+“Puesta a tierra deficiente: cajas metálicas, bandejas, escalerillas y estructuras deben quedar equipotenciadas y conectadas al conductor de protección; la continuidad debe verificarse y documentarse.”
+
+“Autorización del producto: cada modelo de cargador y su configuración de conectores debe corresponder a su resolución exenta; cambios de variante (p. ej. número de conectores) requieren que el modelo declarado coincida con el instalado.”
+
+“Direccionamiento: registrar la dirección exacta y consistente; en recarga pública esta información se publica en plataformas y apps (interoperabilidad), afectando la experiencia del usuario en ruta.”
+
+“Proyectos especiales: tecnologías no contempladas explícitamente en el REC 15 requieren ingreso por oficina de partes y resolución habilitante; luego el TE6 se completa con esa resolución en el campo correspondiente.”
+
+“Plan de mantención: la IRVE debe contar con plan de inspección periódica (cables, conectores, protecciones, torques, limpieza, firmware); instalar sin plan de O&M compromete la sostenibilidad del servicio.”
+
+“Gestión de empalme: decidir entre mantener empalme y limitar potencia, aumentar empalme, implementar gestión de carga o instalar segundo empalme; la elección depende del perfil de uso y de la necesidad de potencia continua del SAE.”
+
+“Criterio económico-operativo: el usuario residencial suele preferir recargar en su vivienda por costo kWh inferior al servicio público; la red pública es clave para viajes largos, taxis y logística de alta utilización.”
+
+“Diseño paso a paso — vivienda: identificar conector del vehículo, seleccionar Modo 3 adecuado, calcular potencia mínima según km/día, revisar empalme y tablero, definir protecciones (omnipolar + diferencial), canalizaciones y puesta a tierra.”
+
+“Diseño — edificios: si se alimenta desde servicios comunes, gestionar autorización; considerar remarcación energética si aplica; asegurar capacidad eléctrica, selectividad y gestión de carga para múltiples usuarios.”
+
+“Ejecutar con trazabilidad: al construir, documentar con fotos el recorrido de alimentadores, secciones y protecciones; el informe debe permitir contrastar declarativo (unifilar) con la instalación real.”
+
+“Validación funcional: antes de TE6, probar operación del SAE, respuesta del diferencial y continuidad de tierra; registrar mediciones (corriente, tensión, IR, puesta a tierra) y anexarlas cuando aporte claridad.”
+
+“Control de calidad en tableros: aplicar torque a bornes según fabricante, evitar múltiples conductores en bornes no diseñados para ello, usar borneras adecuadas y proteger aristas cortantes para no dañar aislamiento.”
+
+“Termografía: para potencias significativas (>10 kW) y/o cuando se interviene tablero existente, se recomienda inspección termográfica de puntos críticos bajo carga para detectar conexiones flojas o sobrecalentamientos.”
+
+“Configuración del SAE: limitar potencia cuando el empalme o alimentador lo requiera; documentar la potencia configurada en el TE6 para alinear cálculo de cargas con la operación real.”
+
+“Interoperabilidad: puntos de recarga pública deben integrar datos operativos (ubicación, estado, conectores, potencias) a plataformas abiertas; esto mejora planificación de rutas y reduce ansiedad de autonomía.”
+
+“Respuestas a rechazo TE6: corregir en el mismo folio, anexar un breve informe de subsanación y re-enviar; duplicar la declaración genera problemas de trazabilidad y demoras adicionales.”
+
+“Seguridad del usuario: proteger mangueras y conectores contra intemperie, vandalismo y humedad; asegurar resguardo del conector en reposo y evitar apoyos en el suelo para prolongar vida útil.”
+
+“Selección de método de instalación: elegir D1 (ductos enterrados), bandejas, tubería metálica o canalización en muro según entorno; cada método modifica capacidad de corriente admisible y el cálculo térmico.”
+
+“Selectividad y coordinación: dimensionar interruptores y curvas para que fallas aguas abajo despejen sin disparar protecciones generales; revisar corrientes de cortocircuito en punto de conexión del SAE.”
+
+“Expansión futura: dejar reserva física y eléctrica para crecimiento (más SAE o mayor potencia); prever canalizaciones y espacio en gabinete para facilitar ampliaciones sin cortes prolongados.”
+
+“Compatibilidad electromagnética: en Carga DC y potencias altas, considerar apantallamiento, puesta a tierra de bandejas y rutas separadas de señal para reducir interferencias y falsos disparos.”
+
+“Gestión documental: conservar fichas técnicas de SAE, diferenciales, interruptores y cables; las especificaciones del fabricante complementan el cumplimiento normativo y sustentan decisiones de diseño.”
+
+“Evaluación de sitio: en viviendas, verificar ubicación del estacionamiento, distancia al tablero, posibilidad de instalación mural, protección mecánica de ruta y riesgo de impacto de vehículos.”
+
+“Criterios en CC (Modo 4): asegurar correcta conexión de tierra, selectividad en DC, protección adecuada en AC de entrada y cumplimiento del fabricante respecto a ventilación, distancias y ambiente.”
+
+“Servicios auxiliares: considerar cargas asociadas (iluminación, comunicaciones, señalética, totem) dentro del cálculo de potencia total declarada y su protección independiente.”
+
+“Ensayos y puesta en marcha: realizar pruebas de continuidad PE, impedancia de bucle si aplica, disparo de diferenciales, funcionalidad del SAE y modulación de gestión de carga antes de energizar.”
+
+“Riesgos típicos que elevan sanción: declarar instalaciones no ejecutadas, divergencia mayor entre plano y obra, ausencia de tierra efectiva, y uso de productos sin autorización SEC.”
+
+“Criterio de calidad fotográfica: capturar etiquetas de protecciones (tipo, corriente, curva), secciones de conductores impresas, modelo del SAE y su placa, y detalles de conexión y canalización.”
+
+“Segundo empalme: cuando se opta por empalme dedicado a IRVE, el TE6 sustituye T1 para esa conexión; coordinar con distribuidora la ejecución de obras y puntos de entrega.”
+
+“Público vs privado — impacto en diseño: en público, considerar robustez mecánica, accesibilidad universal, cable management, protección anti vandalismo y mayor exigencia de señalética e iluminación.”
+
+“Actualización normativa: el REC 15 fue actualizado; revisar capítulos sobre modos de carga, interconexión con instalaciones de consumo, características por tipo de instalación y anexos de conectores.”
+
+“Criterios de seguridad humana: priorizar protección diferencial adecuada, continuidad de tierra, encerramiento IP y protección contra contactos directos/indirectos en todo el recorrido.”
+
+“Comunicaciones del SAE: cuando el equipo requiere red (Wi-Fi/Ethernet/4G) para gestión o OCPP, prever canalización y cobertura; fallas de comunicación pueden impedir la operación o facturación.”
+
+“Factor de gestión de carga: al declarar TE6, el factor (0,01–1,0) ajusta potencia de simultaneidad; documentar su valor y justificarlo para coherencia entre cálculo y operación.”
+
+“Control de acceso: en entornos compartidos, habilitar control RFID/app para evitar uso no autorizado; al ser privado, la configuración de activación debe alinearse con el régimen de acceso.”
+
+“Resumen de prioridad técnica: dimensionamiento de conductores, protecciones diferenciales correctas, tierra efectiva, interconexión en tablero con barras y protecciones omnipolares, y producto autorizado.”
+
+“Capacitación y capital humano: el despliegue masivo de IRVE exige instaladores autorizados que conozcan REC 15, RIC/RC aplicables, plataforma TE6 y buenas prácticas de diseño, ejecución y O&M.”

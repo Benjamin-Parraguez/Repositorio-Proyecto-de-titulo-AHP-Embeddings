@@ -1,0 +1,51 @@
+“cuando el usuario de vehículo combustión interna va una estación de servicio, sabe que la pistola del dispensador va a ser compatible con cualquier vehículo… los combustibles van a estar estandarizados… la manera de cobro está estandarizada por volumen… la expectativa… es que llegue… y en pocos minutos un dispensador va a estar disponible… va a tener varios métodos de pago universales, efectivo, tarjetas bancarias… cargar en la estación de servicio A o B no tiene diferencias sustanciales para el usuario.”
+
+“a diferencia de… combustión interna… el mundo de los conectores se abre… el estándar de su vehículo tiene que ser compatible con el conector… la potencia… puede variar significativamente y también existe la carga en AC y DC… algunos operadores… cobran por tiempo o sesión… los cargadores pueden estar ocupados… aparece la necesidad de tener información a tiempo real respecto a cuál es la disponibilidad… opciones de pago más limitadas y usualmente se requiere una aplicación o una tarjeta RFID… una para cada operador… cargar… en un cargador público A o B puede presentar diferencias significativas… por eso… hablamos de interoperabilidad… la falta de interoperabilidad impacta en la experiencia del usuario.”
+
+“el Pliego 15… aborda algunos temas de interoperabilidad. Por ejemplo, le dice a los desarrolladores de infraestructura de carga de acceso público que al menos tienen que tener un conector de tipo europeo.”
+
+“desde el 2019 en adelante la mayoría de los vehículos nuevos… cuentan con el estándar europeo… el 2025… el 100% de los vehículos que se han homologado en Chile vienen con el conector tipo dos.”
+
+“más de 3 cuartos de los vehículos que circulan hoy en Chile cuentan con el conector combo 2, que es el estándar europeo.”
+
+“la normativa ha abordado aspectos de interoperabilidad… las decisiones de mercado… se han alineado hacia este estándar… el desafío es que no podemos perder esta oportunidad… mantener este estándar.”
+
+“tenemos claridad que la… carga en corriente alterna es lenta.”
+
+“la mayoría de los operadores de carga en Chile cobran por… KW cuando el operador quiere diferenciar… sigue manteniendo la misma unidad… el desafío es… que no surjan tarifas muy complejas o poco transparentes.”
+
+“el reglamento de interoperabilidad contempla una plataforma centralizada con una API de salida con un protocolo conocido que es el OCPI… funcionalidades que permiten que terceros puedan utilizar esa información y crear nuevas aplicaciones… existen la aplicación Ecocarga… y la aplicación privada de Enerlink que parcialmente resuelven este problema… el desafío está en cómo se implementa esa plataforma.”
+
+“en medios de pago… cada operador cuenta con su propia aplicación propietaria… el reglamento de interoperabilidad exige al menos… efectivo, tarjeta bancaria… o portal de pago sin necesidad de… registro previo… el desafío está en… cómo interpreta la normativa… porque si la interpretación… fuera que un portal es equivalente a una aplicación, finalmente no estaríamos resolviendo el problema… idealmente [tener] una sola aplicación para… disponibilidad de la red, pero también… pagar.”
+
+“el gran avance… es que el conector Combo 2 es el estándar de facto… la gran barrera hoy es la interoperabilidad en temas de software y medios de pago… el desafío… es cómo implementamos de manera efectiva esa normativa y siempre buscando mejorar la experiencia del usuario.”
+
+“este problema lo tenemos acá de 10 a 20 horas todos los días. Se juntan dos, tres móviles y hay un solo cargador.”
+
+“tenemos un cargador… con dos salidas… la salida izquierda es Chademo y no lo ocupa nadie… hay seis móviles esperando y este no hay nadie esperando para este.”
+
+“hay bombas grandes… no tienen la pistola para la carga rápida… a veces… dice malo y esta estación… lleva medio día… me botaba la carga, la recibía, se cortaba… me costó que me tomara la tarjeta.”
+
+“me hacía perder 3 horas parado aquí… llevaba 22 minutos y todavía no podemos hacer funcionar la aplicación… tuve que descargar otra aplicación… la original no nos sirvió.”
+
+“cuando tú cargáis de noche… estáis regalado… la seguridad… hay gente que no le gusta cargar… porque quedai solo.”
+
+“es necesario mejorar el sistema… la interoperabilidad… puedo entrar a una Shell, a una Aramco, a una Copec y puedo cargar… tiene que estar al día porque esto es el futuro.”
+
+“la interoperabilidad… permite… mediante una única aplicación… acceder a dos, tres, cuatro o cinco distintas redes de carga… similar al roaming de celular… facilitamos la entrada de nuevos CPOs… pueden acceder a una base de usuarios más grande desde el día uno.”
+
+“se decidió… comunicación… a través de OCPI… además del acuerdo comercial… coordinación… cuando un usuario… reporta un problema… traspasar esa información directamente al CPO y trabajar de manera coordinada.”
+
+“principal motivo sigue siendo el desconocimiento… luego el precio… en tercer lugar… autonomía y dónde voy a cargar… sin solución de carga doméstica… la electromovilidad se hace muy difícil… hoy… solo el 2,9% de la venta con vehículos eléctricos o híbridos enchufables… debiésemos estar sobre el 4%… hay que pisar un poco el acelerador.”
+
+“mantenerlo abierto… ha funcionado… China… fabrica CCS2 para Europa… nuestra regulación… alineada con Europa… no va a ser un problema… combo 2 va a ser lo que más tengamos en nuestro país.”
+
+“vamos a ver… vehículos que… permiten alimentar… tu casa… esa posibilidad… que sea interoperable es una claridad que hay que darle a la gente… va a ser un factor de decisión de compra.”
+
+“Chile ha avanzado mucho… existen muchísimos más por hacer… problemas similares… cargadores que no funcionan… filas… información no completamente disponible…”
+
+“posible… red… interoperable a nivel regional… la mayoría… ha optado… por la familia CCS… lenguaje común ISO 15118… y OCPI… integración regional… más bien un tema de coordinación… instancias como OLADE… ALAMOS.”
+
+“necesitamos interoperabilidad y… certeza. O sea, que si uno va a cargar tiene que saber que va a haber un cargador disponible y que va a estar funcionando.”
+
+“el 80% de la carga tiene que hacerse en la casa… eso facilita mucho el uso… ayudemos a que haya más carga en la casa o en la oficina.”
