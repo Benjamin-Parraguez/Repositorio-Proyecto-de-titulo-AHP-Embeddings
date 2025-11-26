@@ -1,0 +1,48 @@
+“La experiencia internacional muestra que la infraestructura de carga de acceso público es indispensable para viajes interurbanos, vehículos que recorren una gran cantidad de kilómetros al día, y usuarios sin posibilidad de cargar en el hogar.”
+
+“la infraestructura de carga pública (ICP) es condición necesaria para acelerar la penetración de vehículos eléctricos, ya que sería impensable desplegar la infraestructura de carga de acceso público solo utilizando terrenos privados”
+
+“en zonas con espacios privados limitados, y zonas donde los usuarios suelen estacionar en la vía pública, difícilmente se logre satisfacer la demanda por carga de acceso público sin hacer uso de espacios públicos.”
+
+“La implementación de ICP requiere obtener varios permisos relacionados al uso del espacio público”
+
+“Además, los proyectos de ICP pueden interactuar con distintas partes de la estructura municipal, dependiendo del tipo de permisos/concesiones, y las dinámicas particulares del municipio. El permiso/concesión para el uso del BNUP lo aprueba el Alcalde y/o Concejo Municipal, mientras que la validación técnica-jurídica la realizan las direcciones municipales”
+
+“Los espacios públicos se definen como un BNUP destinado a circulación y esparcimiento entre otros, y son administrados (incluido su subsuelo) por las municipalidades9 10 [14]. Dentro del universo de espacios públicos, son de especial interés para la ICP las vías/caminos de uso público, ya que ahí pueden existir estacionamientos destinados para vehículos.”
+
+“Diseñar IC que minimice el impacto en espacios públicos, utilizar el mobiliario existente (e.g. postes alumbrado público) para instalar ICP, reasignar espacios de estacionamiento para que sean exclusivos para la carga de VE, optimizar la planificación de ICP para no instalar más estaciones de las necesarias, desarrollar herramientas para seleccionar ubicaciones óptimas de ICP.”
+
+“La rentabilidad de corto plazo para la ICP es baja Durante las etapas tempranas de la electromovilidad, la rentabilidad de corto plazo para la ICP suele ser baja. Lo anterior, de acuerdo a la experiencia internacional, se debe principalmente a que pocos VE utilizan la ICP (i.e. bajo factor de utilización), y no hay suficientes ingresos para recuperar la inversión en el corto plazo.”
+
+“cuando el mercado es incipiente los costos de implementar y operar la ICP serán más elevados con respecto a un mercado maduro. Los entrevistados a nivel nacional confirman la baja rentabilidad de corto plazo en el caso chileno, aunque están dispuestos a invertir hoy apostando a recuperar la inversión en el mediano plazo.”
+
+“Existen pocos VE circulando en el país, lo cual naturalmente reduce la demanda por ICP”
+
+“Parte de la ICP está instalada en ubicaciones poco óptimas (e.g. poca visibilidad, dificultad para estacionar, estacionamiento no exclusivo para VE), lo que dificulta y disminuye su uso.”
+
+“Problemas de disponibilidad. Los usuarios entrevistados mencionan que se han encontrado con varios puntos de carga fuera de servicio. Además, en algunas ocasiones acuden a un punto de carga que se encuentra ocupado por otro usuario, o bloqueado por un VCI estacionado. Esto genera incertidumbre y mala percepción con respecto al servicio, bajando su demanda.”
+
+“Subsidio público en la fase inicial de ICP, disminuir las asimetrías de información para que el mercado sea más competitivo, complementar la rentabilidad con otros modelos de ingresos44, uso de sistemas de gestión de carga para evitar peaks de demanda.”
+
+“los instaladores eléctricos con experiencia en ICP son pocos, y están concentrados en unas pocas regiones, principalmente, en la RM. Por lo anterior, en las regiones sin (o con pocos) profesionales de experiencia los proyectos de ICP tienden a ser más costosos y extensos. El alza de costos puede deberse tanto a gastos de traslado, alojamiento, tiempos de viaje, y plazos más extensos, como a también que las licitaciones sean menos competitivas por falta de oferentes.”
+
+“Como alternativa a trasladar profesionales con experiencia desde otras regiones del país, se pueden contratar instaladores locales sin experiencia en ICP. Sin embargo, esto también puede generar retrasos y sobrecostos (justamente por la falta de experiencia).”
+
+“Capacitación a instaladores46, cursos online (e-learning), separación de las etapas de ingeniería e instalación, elaboración de guías de buenas prácticas en la instalación de ICP.”
+
+“La implementación de ICP, casi en la totalidad de los casos, requiere solicitar un nuevo empalme a la empresa distribuidora. Si bien, existe un procedimiento normado para la solicitud de conexión/ampliación, los entrevistados mencionan que en la práctica este trámite es extenso y engorroso. Más aún, los entrevistados señalan que los mayores retrasos en proyectos de ICP ocurren durante la solicitud de conexión a la red de distribución y durante las gestiones con el municipio para la concesión del BNUP (pudiendo alcanzar varios meses)”
+
+“Además, la distribuidora en algunas ocasiones transfiere costos de responsabilidad propia a los proyectos de ICP, generando atrasos (por reclamos) y sobrecostos (en caso de que el cliente los pague por desconocimiento). Por ejemplo, hemos observado casos en que la distribuidora cobra obras adicionales en las redes de distribución o le solicita aportes reembolsables al implementador de ICP”
+
+“Solicitar al CPO la entrega de datos de operación de manera periódica. Por ejemplo, estadísticas de energía, demanda máxima, cantidad de sesiones de carga, duración promedio de sesión de carga y factor de utilización52. De esta manera, el municipio contará con información relevante para evaluar la pertinencia de esa ubicación para el despliegue de ICP.”
+
+“Implementación de ventanilla única de manera de agilizar los trámites relacionados a proyectos de ICP”
+
+“Generar ordenanzas para orientar el despliegue de ICP, que entregue certezas y coordine un procedimiento único. Algunos temas que podría incluir una ordenanza: Normar el diseño Normar el procedimiento y requisitos para implementar ICP (plazos, cobros, obligaciones del CPO, entre otros). prohibir que se estacionen VCI y establecer multas respectivas)”
+
+“Cada municipio funciona de manera distinta y no existe un procedimiento estandarizado para las solicitudes de implementación de ICP. En la práctica,los implementadores deben invertir más tiempo (y recursos) en conocer las particularidades del funcionamiento y exigencias de cada municipio. En algunos casos, deben presentar el proyecto en varias ocasiones para ajustarse al procedimiento específico del municipio en cuestión.”
+
+“El cobro por el uso del espacio público para la ICP no está estandarizado y depende de las ordenanzas y su interpretación. Esto dificulta la evaluación de los costos de un proyecto de ICP.”
+
+“De acuerdo a la experiencia internacional, la rentabilidad de corto y mediano plazo debería ir mejorando a medida que se masifican los VE. Sin embargo, tanto en Chile como en el mundo, aún existe incertidumbre sobre cómo evolucionará el modelo de negocio y el nivel de rentabilidad de largo plazo para la ICP”
+

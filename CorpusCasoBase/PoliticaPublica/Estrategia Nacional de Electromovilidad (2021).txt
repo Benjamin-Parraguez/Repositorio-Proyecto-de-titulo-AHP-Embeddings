@@ -1,0 +1,54 @@
+“Hemos establecido nuevas metas ambiciosas para el mediano y largo plazo, con el fin de entregar señales claras sobre los compromisos adoptados. Trabajaremos porque el 100% de las nuevas incorporaciones al transporte público urbano sean vehículos cero emisiones al 2035, el 100% de ventas de vehículos livianos y medianos sean cero emisiones al 2035 y el 100% de las ventas de vehículos para el transporte de pasajeros interurbano y transporte terrestre de carga sean cero emisiones al 2045. Además el 100% de las ventas de maquinaria (minera, forestal, construcción y agrícola) de más de 560 kW de potencia será cero emisiones a partir del 2035, y de más de 19 kW a partir de 2040.”
+
+“Infraestructura de carga y regulación — EJE 2 … LINEAMIENTOS: • Aumento de cobertura de red de carga • Tarifas e integración con la red eléctrica • Regulación y estándares.”
+
+“Expansión red de carga en regiones … es necesario ampliar la cobertura en todas las regiones con el fin de facilitar el acceso a todas las comunas del país.”
+
+“Se desarrollará y facilitará un Plan Nacional de ubicaciones referenciales de puntos de carga, basado en criterios como flujos vehiculares y disponibilidad de la red eléctrica, con el fin de que los distintos actores… expandan la red de carga a todas las comunas del país. Además se contempla un análisis normativo detallado de usos de suelo vinculados a puntos de carga.”
+
+“Se establecerá una plataforma de conexión de cargadores para las solicitudes de conexión de estaciones de recarga de vehículos eléctricos, que permitirá monitorear y vigilar el cumplimiento normativo de los tiempos de respuestas de las empresas de distribución eléctrica, asociadas a las solicitudes de nuevas conexiones…”
+
+“Se incorporará la electromovilidad de forma eficiente a la red eléctrica evaluando mecanismos de incentivo en el precio de la electricidad que permitan motivar a cargar de forma más eficiente un auto eléctrico, guiando a los consumidores para que la carga se produzca en horarios donde existen mayores holguras en el sistema eléctrico.”
+
+“Generar una coordinación activa entre la planificación de nuevos electroterminales y su demanda energética… y la planificación de las redes eléctricas, de forma que los plazos de cada uno no sean una barrera para el desarrollo de la electromovilidad.”
+
+“La pronta adopción de la movilidad eléctrica necesita una red de carga pública compatible con todos los vehículos eléctricos. Esta tarea se entrega al Ministerio de Energía por medio de la Ley 21.305, sobre eficiencia energética, mandatando a regular la interoperabilidad del sistema de recarga para los vehículos eléctricos de Chile.”
+
+“Se desarrollará e implementará el reglamento de Interoperabilidad con el fin de facilitar el acceso y conexión de los usuarios de vehículos eléctricos a la red de carga. Además se realizarán pruebas y pilotos para alimentar posibles actualizaciones…”
+
+“El Pliego Técnico Normativo N°15 establece los requisitos de seguridad que deberán cumplir las instalaciones a la recarga de vehículos eléctricos… Con Resolución Exenta N°33.675 de la SEC se establece régimen para la autorización de productos de uso en infraestructura de recarga…”
+
+“Se implementará el Pliego Técnico Normativo 15, realizando campañas de medición y monitoreo de instalaciones de carga en vista a levantar insumos para una eventual revisión de la Norma Técnica de Seguridad y Calidad de Servicio (NTSyCS).”
+
+“Infraestructura de carga en Bienes Nacionales de Uso Público (BNUP) … Con el fin de potenciar su despliegue es necesario revisar los procedimientos asociados para disminuir barreras que puedan existir.”
+
+“Promover soluciones de carga en ruta … Se incentivará la instalación y uso de elementos y componentes asociados a la electromovilidad en licitaciones del Ministerio de Obras Públicas.”
+
+“La aplicación móvil EcoCarga indica la posición geográfica de todas las estaciones de carga de acceso público… se indican potencia, tipo de conector y cantidad de conectores… Se publicará información en tiempo real de los cargadores públicos … y se actualizará la plataforma de Bencina en línea, incorporando los puntos de carga…”
+
+“Aporte de la Electromovilidad en la nueva Distribución … podemos soñar con redes bidireccionales, es decir, utilizar las baterías de los vehículos eléctricos para dar servicios complementarios a la red.”
+
+“El programa ‘Mi Taxi Eléctrico’, lanzado durante 2021, entrega apoyo para que dueños de taxis puedan cambiar su vehículo por uno eléctrico… se busca ampliarse a todas las regiones… se estima que para taxis, un vehículo eléctrico es económicamente conveniente, sin subsidio, a partir de recorridos anuales sobre los 35.000 km…”
+
+“Formación ciudadana. Los usuarios requieren estar informados y conocer qué aspectos son relevantes en la electromovilidad… se incorporarán contenidos de seguridad y rescate en caso de siniestros asociados a vehículos eléctricos, híbridos o a celda de combustible hidrógeno… además de la explicación del etiquetado de consumo vehicular para vehículos livianos y medianos.”
+
+“Comunidad Educativa. La educación formal de niños, niñas y jóvenes nos permitirá preparar a los futuros ciudadanos… se continuará incorporando la temática de electromovilidad en los materiales educativos de energía; para su posterior implementación en los establecimientos educacionales…”
+
+“La aplicación móvil EcoCarga indica la posición geográfica de todas las estaciones de carga… Para cada punto… potencia, tipo de conector y cantidad de conectores… Se publicará información en tiempo real de los cargadores públicos…”
+
+“Capacitaciones… el sector energía presenta grandes desafíos en la formación y capacitación… la formación se debe desplegar en el país con el fin de impulsar la movilidad eléctrica a nivel nacional.”
+
+“Se fomentará realizar capacitaciones a nivel nacional con el fin de lograr mayor equidad en regiones en la formación de capacidades… A través de la mesa +Capital Humano, liderado por el Ministerio de Energía, se relevarán los temas de electromovilidad… incentivar y promover en la industria el capital humano…”
+
+“Se generará un repositorio nacional de información de vehículos eléctricos e infraestructura de carga… con el fin de disponibilizar información técnica a usuarios, personal de emergencias, talleres multimarca, académicos, y todos aquellos interesados…”
+
+“Se potenciará la Plataforma de Electromovilidad, incorporando mayor contenido que apoye la toma de decisiones, tanto a nivel agregado nacional como con detalle regional…”
+
+“Perfiles laborales de electromovilidad. … los principales perfiles laborales que se requieren… son eléctricos y mecánicos, y en ambos casos se trata de perfiles de nivel técnico superior… se hace necesario determinar proyecciones de empleabilidad y la renovación de planes formativos… necesidad de trabajar en nuevos perfiles laborales.”
+
+“Se realizará difusión del levantamiento de perfiles laborales relacionados a la mantención de vehículos eléctricos e instalación de infraestructura de cargadores… con el fin de dar a conocer el estándar mínimo exigido… promoviendo formación y/o capacitación… y definición de nuevos perfiles de competencias… para actualizar o generar nuevos procesos formativos en electromovilidad.”
+
+“Se formulará e implementará un programa de formación de gestores energéticos, enfocado en el sector transporte de carga… entregará herramientas y capacidades a profesionales de empresas transportistas…”
+
+“Se trabajará en el desarrollo de una licencia de instalador SEC específica para la transformación vehicular.”
+

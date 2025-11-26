@@ -1,0 +1,104 @@
+“la ley N° 21.305, sobre eficiencia energética; … en la resolución exenta N° 33.374, de 2020, de la Superintendencia de Electricidad y Combustibles, que establece los requisitos para la infraestructura de recarga de vehículos eléctricos, mediante pliego técnico normativo RIC N° 15”
+
+“en el artículo 6° de la ley… se dispone que el Ministerio de Energía regulará la interoperabilidad del sistema de recarga de vehículos eléctricos, pudiendo normar el funcionamiento de la referida interoperabilidad, así como requerir la información”
+
+“el Ministerio de Energía fomentará que los usuarios de la movilidad eléctrica puedan cargar sus vehículos en cualquier punto de carga que pertenezca a la red de acceso público… velando por la eficiencia operacional del sistema de energía eléctrica.”
+
+“mejorar la eficiencia energética del parque vehicular… aumentar la seguridad energética… fomentando las fuentes de energías renovables… reducir… emisiones de gases de efecto invernadero”
+
+“indispensable elaborar y desarrollar un sistema de estandarización de la red de carga pública… asegurando la entrega de información mínima… características técnicas, y de ubicación y disponibilidad de cada cargador y sus conectores”
+
+“regular materias vinculadas a los estándares de continuidad de servicio, información de precio de los productos entregados, y requerimiento de otra información relevante”
+
+“Artículo 1. El presente reglamento tiene por objeto establecer… interoperabilidad del sistema de recarga…, los requerimientos de información y operación… y las exigencias para prestar el servicio de carga”
+
+“Artículo 2. Las disposiciones… serán aplicables a los propietarios de infraestructura de carga…, a los operadores de punto de carga y a los proveedores de servicios de electromovilidad”
+
+“Toda IRVE… cumpliendo los requerimientos técnicos… DS N° 8, de 2019… y en el Pliego 15, o el que lo reemplace”
+
+“deberán ejecutarse por instaladores eléctricos debidamente autorizados por la Superintendencia”
+
+“Al momento de realizar la declaración de puesta en servicio de una IRVE ante la Superintendencia, el instalador eléctrico deberá indicar para cada cargador incluido en ella, al menos la siguiente información: ubicación georreferenciada, potencia nominal del cargador, cantidad, tipos y potencia nominal de sus conectores, y cantidad de vehículos que se puedan cargar simultáneamente en el cargador distinguiendo entre CC y CA, protocolo de comunicaciones entre el SAVE y su respectivo sistema de gestión o backend, entre otras que establezca el Pliego 15, o el que lo reemplace.”
+
+“Un cargador será considerado de acceso público si es accesible a todos los usuarios VE para ser utilizado para proveer el servicio de carga de vehículos eléctricos, respetándose las condiciones informadas por su Propietario, Operador o PSE según corresponda.”
+
+“Los cargadores de acceso público deberán cumplir con las condiciones y obligaciones indicadas en el Capítulo 2 del presente Título, independiente de que sean utilizados de forma privada dentro de horarios específicos, en los que no preste el servicio de carga de vehículos eléctricos.”
+
+“Todo cargador que no sea de acceso público será de acceso privado y deberá cumplir con las condiciones y obligaciones indicadas en el Capítulo 3 del presente Título.”
+
+“Cualquier propietario que cuente con cargadores de acceso público podrá solicitar a la Superintendencia su modificación para pasar a ser considerados cargadores de acceso privado, en cuyo caso no podrán continuar prestando el servicio de carga de vehículos eléctrico”
+
+“En el caso de que se declare un cargador de acceso público, su propietario deberá inscribirse en la Plataforma de Interoperabilidad en la modalidad que para ello indique la Superintendencia”
+
+“En el caso que se identifique un cargador declarado como de acceso privado prestando el servicio de carga de vehículos eléctricos, la Superintendencia iniciará en contra del respectivo propietario de la IRVE el correspondiente proceso sancionatorio según lo establecido en la ley N° 18.410”
+
+“Toda IRVE deberá cumplir con los requerimientos técnicos definidos en el Pliego 15, o el que lo reemplace, tal como modos de carga, tipo o configuración de conectores, potencias mínimas, entre otros. Estos requerimientos técnicos podrán estar diferenciados según se trate de cargadores de acceso público o cargadores de acceso privado.”
+
+“Para el caso de IRVE que cuente con cargadores de acceso público, el Pliego 15, o el que lo reemplace, deberá definir al menos un tipo o configuración de conectores con el que deberá cumplir, pudiendo diferenciar para ello entre conectores de carga CA y CC. Estos conectores deberán ser construidos bajo normas y esquemas de certificación internacional.”
+
+“Los conectores, tanto de carga CA como CC, deberán establecer las funciones de comunicación y seguridad entre el SAVE y el vehículo eléctrico. En particular los conectores de carga CA deberán establecer la Función de Control Piloto y Función de Contacto por proximidad. Los conectores serán indicados en el Pliego 15, o el que lo reemplace.”
+
+“En caso de que la operación o prestación de los servicios sean realizados por terceros, el propietario deberá informar esta circunstancia a la Superintendencia, con ocasión de la declaración de puesta en servicio indicada en el Artículo 8 del presente reglamento, a través de la plataforma de interoperabilidad, en cuyo caso el Operador o PSE, según corresponda, deberá inscribirse en dicha plataforma en la modalidad que para ello indique la Superintendencia.”
+
+“No obstante lo anterior, el propietario será siempre responsable de la seguridad eléctrica de la IRVE, debiendo mantener las instalaciones en buen estado y en condiciones de impedir o reducir riesgo para las personas y cosas.”
+
+“El operador será responsable por la correcta operación técnica de los cargadores que tenga a su cargo, debiendo mantenerlo en funcionamiento”
+
+“La entrega del Servicio de carga de VE deberá realizarse sin discriminación arbitraria a los Usuarios VE, conforme a las condiciones informadas en la plataforma de interoperabilidad de acuerdo al presente reglamento.”
+
+“Los PSE deberán habilitar canales de comunicación con los Usuarios VE, tales como plataformas digitales, atención presencial, entre otros, que permitan acceder a información sobre los servicios prestados, precios y la realización de reclamos.”
+
+“El propietario, en caso de dar término definitivo a las operaciones totales o parciales de una IRVE de acceso público, deberá adoptar las medidas de seguridad necesarias para garantizar que no constituya un riesgo para la seguridad de las personas y sus bienes, dando cumplimiento a lo definido en el Pliego 15, o el que lo reemplace.”
+
+“Las empresas distribuidoras deberán notificar a la Superintendencia de la energización de toda IRVE que cuente con cargadores de acceso público, por los medios y en los plazos que disponga la Superintendencia para tales efectos.”
+
+“Los cargadores de acceso público deberán permitir la comunicación a través de un protocolo abierto de, al menos, el estado del cargador y del o los conectores, señales sobre su activación, la energía suministrada, la potencia demandada, registro de errores, todo lo anterior con sus respectivas marcas temporales. El protocolo de comunicación abierto estará definido en el Pliego 15 o el que lo reemplace.”
+
+“Los operadores tendrán un plazo de 30 días contados desde la fecha de energización del cargador de acceso público, para comunicar a través de la plataforma de interoperabilidad, la información relativa a los cargadores de acceso público de su responsabilidad, según se indique en el Instructivo que la Superintendencia dicte para tales efectos.”
+
+“Los operadores deberán enviar la información en tiempo real a la plataforma de interoperabilidad respecto del estado de los cargadores y de los conectores de su responsabilidad, según se indique en el Instructivo que la Superintendencia dicte para tales efectos.”
+
+“Los estados de los cargadores y de los conectores serán identificados en, al menos, como estado disponible, estado en falla, estado en mantenimiento, estado no disponible, según lo que establezca el Pliego 15 o el que lo reemplace.”
+
+“El Pliego 15, o el que lo reemplace, indicará el nivel mínimo de disponibilidad de los cargadores y sus conectores, pudiendo distinguir entre distintos estados, tales como fallas de comunicación o fallas de la red eléctrica. El respectivo operador será responsable de cumplir con los referidos niveles mínimos de disponibilidad.”
+
+“Los proveedores de servicios deberán enviar la información en tiempo real a la plataforma de interoperabilidad respecto de los servicios de carga de vehículos eléctricos y sus precios correspondientes, que se entregan en cada cargador asociado a ellos, según se indique en el Instructivo que la Superintendencia dicte para tales efectos.”
+
+“Los operadores deberán informar a la Superintendencia en un plazo de 30 días contados desde la fecha de energización del cargador de acceso público los mecanismos y políticas de restauración de enlaces de comunicación entre su sistema de información y la plataforma de interoperabilidad, y entre su sistema de información y los cargadores de acceso público.”
+
+“Los propietarios deberán comunicar a la Superintendencia, con ocasión de la declaración de puesta en servicio indicada en el Artículo 8 del presente reglamento, a través de la plataforma de interoperabilidad, las indicaciones para acceder físicamente a sus cargadores, tomando en consideración información sobre identificación de salidas de carretera, restricciones en el perímetro del recinto, distintos niveles en edificaciones, horario de funcionamiento, u otros que sean necesarios para acceder a las instalaciones, según se indique en el Instructivo que la Superintendencia dicte para tales efectos.”
+
+“Los PSE deberán asegurar que, en cada uno de los cargadores de acceso público bajo su responsabilidad, exista al menos uno de los siguientes medios de activación que permitan el acceso a la carga:
+     
+    a. Habilitación directa, con o sin operario: La carga se puede habilitar directamente en el cargador, pudiendo éste contar con la asistencia de un operario para ello.
+    b. Habilitación por código de respuesta rápida o QR: La carga se puede habilitar a través de la lectura de un código disponible en el cargador.”
+
+“los PSE deberán informar en la plataforma de interoperabilidad la totalidad de los medios de activación que tendrá disponible cada cargador”
+
+“los PSE deberán contar con al menos una opción de acceso a la carga, sin necesidad de contar con contratos o acuerdos previos con el Usuario VE.”
+
+“Los PSE deberán disponer, en cada cargador de acceso público bajo su responsabilidad, de al menos uno de los siguientes medios de pago: Dinero en efectivo. Tarjeta bancaria. Portal de pago, sin necesidad de contar con un registro por parte del Usuario VE o con un contrato o acuerdo previo entre el PSE y el Usuario VE.”
+
+“los PSE deberán informar en la plataforma de interoperabilidad la totalidad de los medios de pago que tendrá disponible cada cargador.”
+
+“Los PSE deberán contar con un sistema de gestión comercial en línea que cumpla las exigencias mínimas establecidas por la Superintendencia, según se indique en el Instructivo que ésta dicte para tales efectos, que permita itinerancia con los sistemas de gestión comercial de otros PSE, de manera de posibilitar el intercambio de información entre ellos, ya sea de manera directa o a través de un proveedor de itinerancia, permitiendo al Usuario VE el uso de la infraestructura asociada a distintos PSE. Las exigencias para los sistemas de gestión comercial que sean definidas por la Superintendencia podrán establecer mecanismos alternativos de reporte de información en consideración a la cantidad de cargadores operados por un mismo PSE, la ubicación geográfica de los cargadores o el acceso a redes de comunicación.”
+
+“Tanto el Propietario, como el Operador y el PSE deberán contar con mecanismos que permitan dar cumplimiento a la Ley N° 19.628, sobre protección de la vida privada, en relación con los datos de los Usuarios VE.”
+
+“Tanto el Propietario, como el Operador y el PSE deberán contar con mecanismos que aseguren la trazabilidad e integridad de las comunicaciones y de los datos.”
+
+“Cada operador deberá comunicar a la Superintendencia información estadística relacionada con los eventos de carga, demandas máximas, energía suministrada, entre otras.”
+
+“Cada cargador de acceso público y su respectivo sistema de gestión o backend, deberán contar con sincronización horaria que permita garantizar la correcta configuración horaria de los componentes que entregan el servicio de carga según el patrón nacional de tiempo, conforme a los términos que se indiquen en el Instructivo dictado por la Superintendencia.”
+
+“Todo cargador de acceso público deberá estar registrado en la plataforma de interoperabilidad, indicando su Propietario, OPC y PSE.”
+
+“La plataforma de interoperabilidad reunirá la información fija e información en tiempo real de cada cargador, tales como las características técnicas, ubicación geográfica, medios de pago, el precio del servicio y el estado de cada cargador y sus conectores, facilitando el intercambio de información entre los distintos actores del sistema de recarga de vehículos eléctricos.”
+
+“Una vez comunicada a la Superintendencia la puesta en servicio de una IRVE, que cuente con cargadores de acceso público, los propietarios deberán informar, en un plazo máximo de 20 días contados desde la declaración de puesta en servicio, la fecha programada de energización.”
+
+“La Superintendencia comunicará a los operadores y prestadores de servicios inscritos según lo indicado en el artículo 15 del presente reglamento, sus respectivas credenciales de acceso que les permitan administrar en la plataforma de interoperabilidad los cargadores que les hayan sido asignados por su propietario. Las credenciales de acceso tendrán carácter de intransferible.”
+
+“Los OPC y PSE de cargadores de acceso público deberán disponer de los medios que les permitan responder a los requerimientos de información de la Superintendencia, que digan relación con el registro de energías en un periodo de hasta un año, cantidad de eventos de cargas y las demandas máximas de cada evento de carga, así como el registro de la demanda máxima de la IRVE en las horas de punta y fuera de punta del sistema eléctrico correspondiente, establecidas en el decreto que fija los precios de nudo de corto plazo al que se refiere el artículo 171° de la Ley General de Servicios Eléctricos.”
+
+“La Superintendencia dispondrá, al menos anualmente, de estadísticas generales de disponibilidad de los cargadores de acceso público en su sitio web, resguardando lo indicado en el artículo siguiente.”

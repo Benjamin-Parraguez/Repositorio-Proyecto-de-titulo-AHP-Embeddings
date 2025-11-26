@@ -1,0 +1,59 @@
+“Las metas de adopción de la electromovilidad en Chile son desafiantes. La Estrategia Nacional de Electromovilidad establece que para el año 2035, todas las ventas de vehículos livianos y medianos, así como las nuevas incorporaciones al transporte público urbano sean cero emisiones. En este contexto, la infraestructura de carga juega un rol fundamental para lograr estas ambiciosas metas.”
+
+“Actualmente, el 72% de los cargadores de acceso público se encuentran en la Región Metropolitana, lo que genera una brecha para el desarrollo de la electromovilidad en regiones que cuentan con escaso o nulo acceso.”
+
+“En su primera versión, +Carga Rápida habilitó un total de 16 cargadores rápidos, equivalentes a 32 puntos de carga rápida, distribuidos en 14 ciudades y 12 regiones de Chile. Esta iniciativa aseguró la disponibilidad de al menos un cargador rápido de acceso público en cada región del país, contribuyendo significativamente al impulso de la electromovilidad a nivel nacional.”
+
+“Chile busca la carbono neutralidad al año 2050 Chile tiene como meta que, al año 2035, todas las ventas de vehículos livianos y medianos, así como las nuevas incorporaciones al transporte público urbano, sean cero emisiones.”
+
+“La infraestructura de carga (IC) es indispensable para el desarrollo de la electromovilidad. Particularmente, la ICR permite habilitar viajes interurbanos, proporcionar opciones de carga en situaciones de emergencia y facilitar la correcta operación de flotas de alto recorrido dentro del radio urbano (e.g. flotas de delivery, taxis).”
+
+“En 2023, en Chile se instalaron 320 nuevos cargadores de acceso público, lo que constituye el 43% del total de 745 existentes. De este conjunto, 63 fueron cargadores rápidos, representando el 35% de los 176 instalados a nivel nacional.”
+
+“En Chile, el 72 % de los cargadores de acceso público se localizan en la Región Metropolitana (RM). Previo al lanzamiento del proyecto +Carga Rápida, 6 de las 16 regiones del país no contaban con ningún cargador rápido de acceso público.”
+
+“Velar por la correcta implementación de la IC, en términos de seguridad y cumplimiento normativo. Operan y expenden la red eléctrica de distribución. Suministran la electricidad a los cargadores implementados.”
+
+“El servicio de carga debe contar con al menos uno de los siguientes medios de pago para favorecer la interoperabilidad de la ICR: Dinero en efectivo. Tarjeta bancaria. Medios electrónicos a través de un portal de pago, sin necesidad de contar con un contrato o acuerdo previo.”
+
+“Proyecto más rápido Implementación completa en: 300 días corridos. Proyecto promedio Implementación completa en: 392 días corridos. Proyecto más lento Implementación completa en: 454 días corridos.”
+
+“Desde la finalización del montaje hasta la recepción conforme de la documentación por parte de la SEC. Nota: Esta etapa incluye el proceso de reingreso de información, en caso que la SEC realice observaciones. En promedio, se requirieron al menos dos ingresos TE6 por ubicación.”
+
+“El costo más significativo corresponde a las obras civiles y eléctricas, llegando a representar en promedio el 68% del costo total del proyecto.  Los costos totales de inversión son mayores en la zona norte. En promedio, la IC instalada en el norte presenta un aumento del 20% en comparación con la del centro del país.”
+
+“La principal componente se vincula con el pago de la electricidad, la cual se divide en dos componentes base, cargo por energía y cargo por potencia.  Dada la configuración de las tarifas, estas son poco convenientes para clientes que consumen poca energía pero que demandan un elevado nivel de potencia, como ocurre con la ICR actualmente.”
+
+“En un escenario con factor de utilización del 5% (equivalente a 1.920 kWh), el costo de operación es cercano a $1.300.000 mensuales.  el valor por kWh  ascendería a 677$/kWh aproximadamente. si el factor de utilización se incrementa  a un 20% el costo de operación  se acerca a $1.800.000  y  el costo de carga  se reduce a 235$/kWh aproximadamente.”
+
+“Posibles soluciones: Subsidio público en la etapa inicial de la IC, fomento de un mercado más competitivo uso de sistemas de gestión de carga para evitar peaks de demanda, uso de sistemas de almacenamiento energético generar ingresos adicionales por servicios complementarios.”
+
+“En promedio, la potencia disponible en las EDS se debió aumentar en 140 kW, lo que significó un aumento del 283%, respecto a la potencia existente previamente. la coordinación de trabajos con las empresas distribuidoras representa uno de los desafíos más importantes.”
+
+“El 33% de las ubicaciones del proyecto requirió obras adicionales en la red de distribución. promedio de 119 días corridos desde la solicitud de obras adicionales hasta la ejecución  el 80% de los procesos de conexión excedieron los plazos establecidos en la normativa. Se contabilizó un valor promedio de 51 días corridos desde la solicitud hasta la conexión de los servicios.”
+
+“Posibles soluciones: Agilizar los procedimientos administrativos para la solicitud de conexión, actualizar la normativa, planificar y anticipar inversiones en el sistema eléctrico, designar un único punto focal  estandarizar criterios entre equipos zonales, disminuir las brechas de información sobre los procedimientos, criterios y condiciones de cada empresa distribuidora.”
+
+“Durante la instalación, la falta de personal capacitado en las regiones aumentó los plazos y costos  Además, se identificó un limitado conocimiento de la regulación vigente, particularmente del Pliego Técnico Normativo RIC N°15 de la SEC y del proceso de inscripción TE-6, generando observaciones que debieron ser subsanadas.”
+
+“Posibles soluciones: Capacitación a instaladores, difusión de la normativa vigente, elaboración de guías de buenas prácticas, elaboración de instructivos claros para un correcto ingreso del procedimiento TE-6.”
+
+“La mayoría de las EDS ubicadas en entorno urbano tienen espacio limitado. es complejo definir en qué momento se remplazará un dispensador de combustible por un cargador de VE.  Incorporar la IC en la etapa de diseño de nuevas EDS […] identificar trayectos interurbanos que deberán ser electrificados.”
+
+“La fabricación e importación de cargadores rápidos presenta plazos extensos, con un tiempo promedio de 209 días corridos. la adquisición de transformadores demoró un total de 140 días corridos en el caso menos favorable de instalación.”
+
+“La ejecución de obras civiles en EDS presenta un desafío logístico significativo debido a su operación continua las 24 horas del día, los 7 días de la semana. Coordinar de forma precisa los horarios, permisos y métodos de trabajo para reducir el impacto en la continuidad operativa de la EDS.”
+
+“La red de carga no es interoperable. Falta de medios de pago universales. Los estacionamientos destinados a la IC son utilizados por usuarios de vehículos a combustión sin existir una correcta fiscalización.”
+
+“La adopción masiva de VE traerá consigo un aumento significativo en la cantidad de instalaciones de cargadores  Estrés en el sistema eléctrico, Requerimiento de una mayor cantidad de espacios disponibles Respuestas rápidas ante un aumento en las solicitudes de trámites administrativos relacionados con la implementación de IC.”
+
+“Utilizar cables de carga con una longitud mínima de 4,2 metros La altura del conector debe estar entre 0,6 y 1,3 metros. Se sugiere dejar un espacio libre de al menos 70 cm frente al cargador para un funcionamiento óptimo.”
+
+“Garantizar asistencia: Asegurar que la estación de carga cuente con un servicio de ayuda para informar y resolver problemas Comunicación fácil: Facilitar la comunicación con el servicio de atención al cliente.  Disponibilidad de sistemas de pago sin contacto con apoyo visual y auditivo.”
+
+“Estacionamiento en 90° y 60° Económico en términos de espacio y costos de inversión. Estacionamiento en modo isla  Fácil acceso para la mayoría de los modelos de VE, independiente de la ubicación de su puerto de carga. ”
+
+“Gracias a este proyecto, todas las regiones de Chile tienen al menos un cargador rápido de acceso público Para lograr las metas serán necesarios decenas de miles de cargadores de acceso público. sistemas de carga bidireccionales, tecnologías de battery swapping, entre otras tendencias.”
+
+

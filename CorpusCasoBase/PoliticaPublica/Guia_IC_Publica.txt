@@ -1,0 +1,61 @@
+“Se recomienda que la potencia de salida mínima del punto de carga sea 22 kW. Los cargadores de 7 a 11 kW, si bien son atractivos por su bajo costo de inversión, no parecen recomendables para espacios públicos por los largos tiempos de estadía que requieren los vehículos para cargar. De acuerdo a la experiencia internacional, para fines de carga de acceso público urbana es preferible contar con potencias de 19 kW o superiores, con distribución trifásica para reducir tiempos de espera.”
+
+“Otras características del cargador… De forma complementaria, el Pliego Técnico Normativo 15 (RIC-15) establece requisitos de seguridad eléctrica, instalación y operación para instalaciones públicas de recarga. El Reglamento de Interoperabilidad (D.S. 12/2022) en desarrollo detallará la comunicación entre cargadores y plataforma central, incluyendo OCPP como protocolo base, identificación de conectores y reporte de estados en tiempo real.”
+
+“Recomendamos que, para espacios públicos urbanos, se privilegie AC entre 20 y 50 kW por sus menores requerimientos de red y costos; la carga DC >50 kW es más adecuada para rutas interurbanas y estaciones de servicio por su mayor potencia y rotación de usuarios.”
+
+“Características recomendadas para cargadores en espacio público: al menos 2 vehículos en forma concurrente; potencia entre 22 y 50 kW; tecnología AC; señalización y estacionamientos de 2,5 m x 5 m por puesto; accesibilidad y seguridad para usuarios.”
+
+“PC-AC permiten tiempos de carga compatibles con el desarrollo de otras actividades cotidianas del usuario en estacionamientos de acceso público (comercio, servicios, trámites).”
+
+“En contraste, PC-DC… fundamentales para viajes interurbanos, la operación de flotas de alto recorrido y para dar cobertura en trayectos de larga distancia.”
+
+“A través de esta guía, buscamos apoyar principalmente a instituciones del Estado como ministerios, gobiernos regionales, municipalidades, entre otros, en la toma de decisiones relacionadas a infraestructura de carga pública.”
+
+“Las metas de adopción de la electromovilidad… implican que el número de VE en circulación aumente considerablemente en los próximos años, y será necesario asegurar la carga… para alcanzar los objetivos de descarbonización.”
+
+“Mirada sistémica de la infraestructura de carga: la IC de acceso público debe abordarse como una red, no como puntos aislados, articulando cobertura, demanda y equidad en la localización.”
+
+“Se debe buscar que exista cierto grado de equidad de acceso a la ICP. Usuarios de localidades con 5 mil habitantes no deberían tener que viajar 50 km para acceder a la ICP.”
+
+“Criterios recomendados para seleccionar ubicaciones… acceso público 24 horas; fácil acceso/alta visibilidad; estacionamientos pavimentados y de pago liberado; espacios libres de interferencias (grifos, ferias, puertas, paraderos, ciclovías, intersecciones, bancas, árboles); libres de interferencias subterráneas; cobertura red celular; área iluminada; cercano a poste/cámara de la red de distribución (ideal <30 m); accesibilidad universal; cámaras de seguridad pública; etc.”
+
+“Se recomienda que los cargadores y sus estacionamientos no se instalen cercanos a intersecciones (≥20 m); al menos a 4 m de árboles; y un radio de 2 m sin interferencias alrededor del lugar de instalación.”
+
+“Cercano a un poste de la red de distribución eléctrica (ideal <30 m). Alternativamente, cercano a cámara eléctrica en la misma vereda del cargador.”
+
+“La entrega de permisos/concesiones para la utilización del espacio público debe realizarse mediante un proceso abierto, transparente y competitivo”
+
+“No existe regulación ad-hoc para el servicio de carga pública… ninguna de las dos alternativas (concesión BNUP o permiso precario) se adapta totalmente a las particularidades de la ICP… el permiso precario es más expedito, pero ofrece pocas certezas al inversionista; la concesión requiere licitación y más iniciativa municipal.”
+
+“El servicio de carga pública busca desarrollarse como mercado competitivo… no parecería razonable regular su tarifa. Recomendaciones: cobro en base a energía (kWh); posibilidad de uso sin contratos previos”
+
+“Lo más razonable es que la tarifa eléctrica la pague quien opera la ICP. Incluir resguardos contractuales para que, en caso de deudas, el municipio pueda obligar al responsable a cancelar.”
+
+“Exigir continuidad y calidad del servicio… establecer tiempos máximos para reparar, multas por incumplimientos y posibilidad de revocar la concesión en caso de reiteración; exigir cumplimiento de la normativa vigente.”
+
+“Si existe subsidio público, el objetivo es fomentar la provisión del servicio más que poseer la ICP; por ello, la propiedad durante la concesión debiese ser del inversionista privado; si 100% pública, puede ser del ente público/municipio. La operación/mantención en general debe concesionarse a un CPO, especialmente cuando hay transacciones electrónicas.”
+
+“En etapas tempranas la rentabilidad de corto plazo suele ser baja; si existe algún grado de subsidio público, su fundamento es fomentar un servicio que el privado temporalmente no puede proveer al óptimo social.”
+
+“La respuesta tiene dos escalas: ‘zonas’ (cientos de metros) para decidir dónde es estratégico ubicar estaciones (aeropuerto, terminal, autopistas, centro histórico, comercial, etc.); y ‘ubicación’ (metros) para definir el punto exacto dentro de la zona.”
+
+“Países con alta densidad y bajo potencial de carga en hogar requieren más PC-AC; territorios extensos y menor demanda interurbana requieren menos DC; se deben considerar particularidades locales al fijar metas VE/PC-AC y VE/PC-DC.”
+
+“En Chile… las municipalidades tienen la facultad de permitir (o no) el uso del espacio público para instalar una estación de carga. Por lo tanto, los municipios… juegan un rol clave en la infraestructura de carga pública.”
+
+““Cobertura red telefonía celular; área iluminada con alumbrado público; bajo riesgo de vandalismo/hurto/colisión; acceso público 24 horas; estacionamientos con accesibilidad universal; al menos a 20 m de intersecciones; radio de 2 m sin interferencias; idealmente a <30 m de poste/cámara eléctrica; veredas anchas”
+
+“Se debería permitir facturar otros servicios distintos a la entrega de electricidad… por ejemplo, cobrar sobretiempo al usuario que permanece conectado tras completar la carga”
+
+“Exigir el cumplimiento de la normativa legal vigente [en el contrato de concesión], incluyendo seguridad, interoperabilidad y reportabilidad.”
+
+“Los casos donde sea recomendable que el municipio opere/mantenga la ICP, probablemente, sean escasos. En general… la operación y mantención debe concesionarse a un CPO.”
+
+“Zonas donde el usuario acude a realizar actividades (trámites, comer, comprar, pasear) y carga mientras realiza esas actividades; zonas con alto flujo vehicular/visibilidad; cercanía a puntos de trasbordo de transporte público.”
+
+“Se propone contar con indicadores y plataformas que orienten a usuarios/decisores a responder cuántos cargadores instalar según VE/PC y factor de utilización”
+
+“La tarifa hacia el usuario debe calcularse en base a la energía cargada (kWh); los usuarios deben poder cargar sin contratos previos.”
+
+“Cobertura distribuida territorialmente; demanda concentrada donde exista mayor necesidad (p.ej., centros urbanos, zonas residenciales con baja carga en hogar); equidad para evitar viajes largos hasta un punto de carga”

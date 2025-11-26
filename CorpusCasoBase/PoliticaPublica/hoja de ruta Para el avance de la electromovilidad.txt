@@ -1,0 +1,94 @@
+“Crear una red de carga pública robusta para los vehículos eléctricos, que entregue seguridad a los usuarios para transitar por todo el territorio nacional.”
+
+“De acuerdo con lo señalado en la Mesa, uno de los elementos habilitantes para el despliegue de la electromovilidad es la infraestructura de carga pública, en particular, asegurar una cobertura territorial mínima para disminuir la ansiedad de rango.”
+
+“A nivel nacional, el 66,4% de cargadores públicos disponibles se encuentran en la Región Metropolitana de Chile, existiendo comunas en distintas regiones de nuestro país que aún no cuentan con esta infraestructura, lo que es un impedimento para la promoción de la movilidad eléctrica. Tomando esto en cuenta, se comprometen las siguientes medidas para habilitar y fortalecer la red de carga en nuestro país.”
+
+“Actualmente existen 908 puntos de carga o conectores distribuidos en las 16 regiones del país. Considerando que al año 2035 el 100% de las ventas de vehículos nuevos livianos y medianos será de energía eléctrica, es fundamental avanzar hacia la habilitación de infraestructura de carga, considerando el aumento de la demanda de vehículos eléctricos, no sólo en sectores urbanos, sino que también en rutas interurbanas que conectan el territorio nacional.”
+
+“Este plan maestro estimará las necesidades de infraestructura de carga para cada región del país en un proceso gradual, generando un indicativo de las necesidades regionales particulares. Esto sentará las bases para la expansión de la infraestructura de carga a nivel nacional, ya que incluirá una definición preliminar de los lugares, flujos y demandas requeridas en el país.”
+
+“Se elaborará el Plan Maestro comenzando por la macrozona norte a partir de 2023, sumándose en los próximos años las macrozonas sur y central. Este instrumento permitirá cuantificar las inversiones necesarias para expandir la infraestructura de carga pública.”
+
+“La implementación de la infraestructura de carga requerirá de inversiones públicas y privadas, por ello, y en pos de aumentar la productividad de las cadenas logísticas locales, se iniciará la primera etapa - macrozona norte - con recursos del Programa de Desarrollo Productivo Sostenible de CORFO.”
+
+“Se avanzará en la habilitación de infraestructura de carga en las rutas interurbanas por medio de la colaboración y coordinación con los actores relevantes para tal efecto, tal como el Ministerio de Obras Públicas y los Gobiernos Regionales.”
+
+“Contar con un Plan de Infraestructura de Carga Pública para la Macrozona Norte en 2024.”
+
+“Contar con un Plan Nacional de Infraestructura de Carga Pública en 2025, en el que se contemple que en rutas interurbanas los puntos de recarga estén distanciados a no más de 100 kilómetros.”
+
+“Comenzar la ejecución del Plan Maestro de Infraestructura de la Macrozona Norte durante 2024.”
+
+“La ansiedad de rango se relaciona con la falta de información del usuario respecto a la disponibilidad de infraestructura de carga.”
+
+“se trabajará en la implementación de una herramienta digital que indicará la ubicación de los puntos de carga, tipo de infraestructura, disponibilidad, precio, entre otros aspectos permitiendo a los conductores planificar y optimizar su viaje.”
+
+“Meta: Contar con plataforma de interoperabilidad en 2024.”
+
+“El Pliego Técnico Normativo RIC N°15 (“Pliego Técnico 15”) establece los requisitos de seguridad que deberán cumplir las instalaciones de consumo de energía eléctrica destinadas a la recarga de vehículos eléctricos, ubicadas en lugares públicos y privados del país.”
+
+“Luego de dos años de funcionamiento se han recogido necesidades de mejora en el funcionamiento del El Pliego Técnico Normativo RIC N°15, donde también debe adecuarse a las normas permitidas en la homologación de vehículos eléctricos (modificación del Decreto Supremo 145 de 2017 del Ministerio de Transportes y Telecomunicaciones).”
+
+“En julio de este año se dio inició al proceso de consulta pública para la modificación del Pliego Técnico 15… también a las obligaciones emanadas desde el reglamento de interoperabilidad de las redes de carga… Dentro de las obligaciones de la ley N° 21.305 sobre eficiencia energética se encuentra la creación de la plataforma de interoperabilidad y el establecimiento de las normas de comunicación.”
+
+“La electromovilidad debe expandirse a lo largo de todo el país, donde su avance deberá ser armónico a los requerimientos de las distintas regiones, tomando en cuenta la importancia del fortalecimiento del transporte público en la contribución a nuestras metas de descarbonización.”
+
+“Avanzar en un mejor sistema de transporte público es un pilar fundamental para la descarbonización del sector transporte, debido a su amplia cobertura de usuarios que utilizan este modo para movilizarse. En vista de lo anterior, el fortalecimiento de la electromovilidad en el transporte público debe abarcar todo el territorio nacional.”
+
+“Una de las metas de la Estrategia Nacional de Electromovilidad es que al 2035 el 100% de las nuevas incorporaciones en el transporte público urbano sean vehículos eléctricos… se incorporarán buses eléctricos en las regiones de Antofagasta, Coquimbo, Biobío y Atacama.”
+
+“Regiones y flotas/centros de carga (extracto de medidas): Antofagasta (40 buses en electrocorredor ~20 km por sentido); Coquimbo (42 buses entre Coquimbo y La Serena); Biobío (25 buses integrados con Biotrén, 2 servicios ~45 km); Atacama (12 servicios, 100 buses y dos centros de carga, Cardone y Paipote; operación 06:00–23:00).”
+
+“Metas: Antofagasta (operación inicios 2024); Coquimbo (adjudicación 2024); Biobío (adjudicación 2024); Atacama (operación inicios 2025).”
+
+“programas regionales de transporte público menor… permitirá crear el ecosistema necesario para una experiencia de usuario de primer nivel… implementación de talleres en cada una de las regiones…
+Medidas: Implementar Mi Taxi Eléctrico con cofinanciamiento para el vehículo y la instalación de un cargador en el domicilio del beneficiario (regiones: Antofagasta, Atacama, O’Higgins y Biobío). Montos y metas regionales detallados para 2023–2024.”
+
+“Meta: Culminar los programas, extender donde haya presupuesto y ampliar al resto de regiones en el período.”
+
+“necesidad de generar instancias participativas… en las distintas regiones del país, permitiendo recabar opiniones y necesidades particulares de cada una de ellas.”
+
+“Meta: Contar con mesas en cada región en 2024, para definir planes específicos y priorizar proyectos con recursos de los Gobiernos Regionales.”
+
+“el sistema tiene hoy 23 centros de carga… Durante esta administración, se licitarán más de 1.000 buses… con la exigencia de ser “cero emisión”… llegando a 3.000 buses eléctricos en la Región Metropolitana.”
+
+“ampliar la cobertura del programa “Renueva tu colectivo”… Se espera que el Proyecto de Ley de Subsidios al Transporte Público sea promulgado durante 2024, permitiendo así que propietarios de taxis colectivos de la RM puedan formar parte del programa. ”
+
+“se requiere contar con una cantidad creciente de técnicos capacitados… y avanzar en el diseño de nuevos perfiles laborales… La educación y capacitación son la base para la expansión… cumpliendo con los estándares de seguridad.”
+
+“espacios de aprendizaje para que operadores regulados y no regulados conozcan la experiencia de la RM… capacitaciones orientadas a proyectos de financiamiento de recambio de flota y a la instalación de centros de carga para transporte público mayor… una vez al semestre… continuidad en 2024.”
+
+“contar con técnicos capacitados… Actualmente se cuenta con dos perfiles laborales… Durante este período se entregará un impulso para la formación en estos perfiles a nivel nacional.
+Medida: Destinar 250 becas por año desde 2024… Meta: Capacitar al menos 250 técnicos al año.”
+
+“medios virtuales permiten llegar a públicos con tiempos limitados… Revisión de contenidos y difusión de curso de electromovilidad para MIPES… Meta: Lanzamiento de curso online en 2° semestre 2023.”
+
+“se pretende levantar nuevos perfiles laborales… Medida: elaboración en 2024. Meta: tres nuevos perfiles en 2026”
+
+“Reducir al máximo el riesgo… dar seguridad y certidumbre a usuarios, operadores y personal de emergencias… crear condiciones para un despliegue seguro.”
+
+“presenta factores de riesgo distintos… importante garantizar condiciones seguras para su uso y operación técnica, tanto postventa como en siniestros viales.”
+
+“incluir contenidos de electromovilidad… características de los VE, precauciones en la recarga, recomendaciones de planificación energética de un viaje, y protocolos ante siniestros. Meta: publicación 2024.”
+
+“necesario contar con equipos de asistencia capacitados…
+Medidas: Contenidos mínimos para emergencias; piloto de capacitaciones; incorporación de protocolos en el Manual de Operaciones Multi-Institucional ante Emergencias.
+Metas: 2023 contenidos y piloto; 2024–2025 escalamiento; 2026 equipos capacitados en todas las regiones.”
+
+“se hace necesario extender esta obligación a vehículos pesados… Medida: regulación para planos eléctricos; Metas: 2023 redacción; 2024 entrada en vigencia.”
+
+“Analizar e implementar modificaciones regulatorias… se estudiará un proyecto de ley…
+…inquietudes y propuestas que requieren habilitación legal (transformación de vehículos, infraestructura de carga en edificaciones nuevas, micromovilidad, etc.).”
+
+“instancias de coordinación… revisión periódica de normativas y brechas… Metas: reuniones semestrales con reporte y bilaterales entre instituciones. (Carteras involucradas detalladas).”
+
+“contar con una revisión normativa periódica… evaluar iniciativas legislativas…
+Medida: Reportes anuales de actualización normativa. Meta: primer reporte 2023 y luego anuales.”
+
+“puntos de recarga que no se distancien más de 100 kilómetros, contando además con una plataforma de interoperabilidad durante el año 2024… mil buses nuevos en RED “cero emisiones”… becas para formación de perfiles laborales… remover barreras regulatorias.”
+
+“Generar una coordinación interministerial para la electromovilidad, que se reúna periódicamente, donde cada una de las carteras… pueda dar cuenta de sus avances… Metas: Reuniones semestrales con reporte de avances; reuniones bilaterales entre las instituciones participantes.”
+
+“En las modificaciones en consulta se incluyen… actualizaciones… y también a las obligaciones emanadas desde el reglamento de interoperabilidad de las redes de carga de vehículos eléctricos (Decreto Supremo 12 de 2022 del Ministerio de Energía). Dentro de las obligaciones de la Ley N° 21.305… se encuentra la creación de la plataforma de interoperabilidad y el establecimiento de las normas de comunicación.”
+

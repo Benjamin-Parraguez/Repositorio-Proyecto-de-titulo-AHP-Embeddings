@@ -1,0 +1,19 @@
+“Artículo 6 El Ministerio de Energía regulará la interoperabilidad del sistema de recarga de vehículos eléctricos, pudiendo normar el funcionamiento de la referida interoperabilidad, así como requerir la información que a tal efecto sea pertinente, todo ello en conformidad con el reglamento que se dictará al efecto.”
+
+“Además, tratándose de vehículos motorizados livianos, medianos y pesados, homologados o certificados, según corresponda, el Ministerio de Energía deberá fijar estándares de eficiencia energética que consistirán en metas de rendimiento energético, los que se establecerán mediante resolución suscrita conjuntamente con el Ministro de Transportes y Telecomunicaciones, y que entrará en vigencia una vez transcurridos veinticuatro meses desde su publicación en el Diario Oficial.”
+
+“Además, se indicará su equivalencia en gramos de CO₂ por kilómetro. Ambos valores serán determinados usando la información contenida en la homologación o certificación del vehículo de que se trate.”
+
+“Anualmente, el Ministerio de Transportes y Telecomunicaciones fiscalizará el cumplimiento de los estándares de eficiencia energética, para lo cual oficiará a la Superintendencia de Electricidad y Combustibles, a fin de que ésta inicie el respectivo procedimiento sancionatorio, en caso de constatar el incumplimiento de los referidos estándares.”
+
+“La sanción que impondrá la Superintendencia por el incumplimiento del estándar de eficiencia energética será una multa de hasta 0,2 UF por cada décima de km/L de gasolina equivalente por debajo del estándar definido para un año determinado, multiplicado por el número total de certificados.”
+
+“En todo caso, para determinar el nivel de cumplimiento del estándar de eficiencia energética, se podrá contar hasta tres veces el rendimiento de cada vehículo eléctrico o híbrido con recarga eléctrica exterior, así como también otros calificados como cero emisiones por resolución fundada del Ministerio de Energía.”
+
+“El Ministerio de Energía, previo informe del Ministerio de Transportes y Telecomunicaciones, anualmente publicará el nivel de cumplimiento del estándar de eficiencia energética alcanzado durante el año anterior por los importadores o los representantes para cada marca de vehículos comercializados en Chile.”
+
+“Artículo 8°.- …cuando se trate de vehículos eléctricos o híbridos con recarga eléctrica exterior, así como también otros calificados como cero emisiones por resolución fundada del Ministerio de Energía, durante los diez años siguientes a la entrada en vigencia de la presente ley, el Director… estarán facultados para establecer… una vida útil de tres años… para efectos de depreciación normal o acelerada.”
+
+“Con al menos seis meses de antelación a que se dicte el Plan respectivo, cada ministerio… El Ministerio deberá abrir un proceso de participación ciudadana, en el que se podrá inscribir toda persona… Un reglamento… determinará la forma y plazos en que deberá abrirse el proceso de participación ciudadana…”
+
+

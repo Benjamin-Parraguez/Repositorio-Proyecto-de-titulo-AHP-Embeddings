@@ -1,0 +1,55 @@
+“El objetivo del presente pliego técnico es establecer los requisitos integrales de seguridad, eficiencia y accesibilidad que debe cumplir la infraestructura de recarga de vehículos eléctricos, híbridos enchufables, ya sean livianos, medianos y pesados, con el fin de promover el desarrollo sostenible de la movilidad eléctrica y garantizar la protección de las personas y cosas”
+
+“Las fuentes reglamentarias de este pliego técnico normativo corresponden al Decreto Supremo N°8, de 2019, del Ministerio de Energía, Reglamento de Seguridad de las Instalaciones de Consumo de Energía Eléctrica y al Decreto Supremo N°12, de 2022, del Ministerio de Energía, Reglamento que establece la interoperabilidad de los sistemas de recarga de vehículos eléctricos”
+
+“Electrolinera: Infraestructura de recarga de vehículos eléctricos que presta servicio de recarga pública, ubicada en estaciones de servicio de expendio de combustibles o Áreas de Servicio ubicadas en vías o carreteras interurbanas, que disponga de al menos un SAVE modo de carga 4 con una potencia mínima de 50 kW”
+
+“Servicio de recarga público: consiste en el servicio de recarga de vehículos eléctricos que es realizado por un SAVE que se encuentra disponible para el público general, con acceso libre a terceros, bajo las condiciones informadas por su propietario, operador o proveedor de servicios en términos de su precio, horarios de funcionamiento, disposiciones del recinto, entre otros, según lo establecido en el presente pliego, dentro de las cuales están las electrolineras, instalaciones de autoservicio con acceso a público, etc.”
+
+“Sistema de alimentación específico de vehículo eléctrico (SAVE) o cargador: Conjunto de equipos montados con el fin de suministrar energía eléctrica en CA (modo de carga 3) o en CC (modo de carga 4) a un vehículo eléctrico, y además cuenta con un dispositivo que establece la comunicación entre el vehículo eléctrico y la instalación fija. Pueden incluir protecciones eléctricas, cables de conexión y conectores, y para el modo de carga 4, el convertidor CA/CC externo. ”
+
+“Sistema de gestión de carga (SGC): Sistema que permite realizar la disminución momentánea de la potencia destinada a la recarga del vehículo eléctrico en función de la capacidad eléctrica de la alimentación del tablero de la IRVE. Este sistema puede actuar desconectando cargas cuando se utilice el modo de carga 2 (punto 6.1.2), o regulando la intensidad de recarga cuando se utilicen los modos de carga 3 (punto 6.1.3) o modos de carga 4 (punto 6.1.4). La orden de desconexión y reconexión podrá actuar sobre un contactor, sistema de control o equivalente.”
+
+“Sistema de protección acometida general de la instalación (SPA): Sistema que permite realizar la disminución momentánea de la potencia destinada a la recarga del vehículo eléctrico en función de la capacidad eléctrica de la acometida general de una instalación con múltiples empalmes. Este sistema puede actuar desconectando cargas cuando se utilice el modo de carga 2 (punto 6.1.2), o regulando la intensidad de recarga cuando se utilicen los modos de carga 3 (ver punto 6.1.3) o modos de carga 4 (ver punto 6.1.4). La orden de desconexión y reconexión podrá actuar sobre un contactor, sistema de control o equivalente. ”
+
+“Los SAVE que presten servicio de recarga pública deberán ser compatibles con OCPP 1.6 o superior, y contar con la certificación correspondiente. La IRVE deberá contar con la arquitectura necesaria de hardware y software para interoperar con el Instructivo de Interoperabilidad, y en particular, OCPP se debe configurar en el perfil de seguridad más alto, siempre que el cargador lo soporte.”
+
+“Los SAVE que presten servicio de recarga pública dispondrán de los modos de carga 3 y/o 4 para la recarga de vehículos eléctricos. Se prohíbe utilizar el modo de carga 2 para la recarga de vehículos eléctricos en servicios de recarga pública.”
+
+“Las instalaciones que dispongan modos de carga 4 deberán incluir al menos un SAVE con conector de configuración FF, con una capacidad de voltaje mínimo de carga 900V. Ver Anexo N°15.4.”
+
+“Las instalaciones que presten servicio de recarga público en BNUP o que se ubiquen en Áreas de Servicio ubicadas en vías o carreteras interurbanas y que dispongan modos de carga 4, deberán disponer de al menos el 50% de conectores en configuración FF, con una capacidad de voltaje mínimo de carga 900V. Ver Anexo N°15.4”
+
+“Los SAVE y conectores que presten servicios de recarga pública deberán cumplir con la disponibilidad establecida en el Instructivo de interoperabilidad, considerando el período de operación informado ante la Superintendencia por su propietario, operador o proveedor de servicios, según corresponda.”
+
+“Toda IRVE que preste servicio de recarga pública deberá contar con una identificación para cada conector y para cada SAVE, en conformidad con lo establecido en el Instructivo de Interoperabilidad. Esta identificación debe ser correlativa (1, 2, …, n), visible e indeleble.”
+
+“Toda IRVE que preste servicio de recarga pública deberá enviar la información a la Superintendencia sobre el estado del SAVE y de los conectores, cada vez que estos presenten algún cambio en ellos, en conformidad con lo definido en el Instructivo de interoperabilidad.”
+
+“Los SAVE que presten servicio de recarga pública deberán contar con al menos uno de los siguientes medios de activación que permitan el acceso a la carga:14.1.2 Para la recarga de ciclos, motocicletas y cuatriciclos que utilicen el caso A de conexión y cuya corriente de recarga sea menor a 10A, será posible disponer de instalaciones modo de carga 1.
+14.1.3 Para la recarga de vehículos eléctricos se podrá disponer de instalaciones con modos de carga 2, 3 o 4.”
+
+“Este tipo de instalaciones deberán contar con una señalética que identifique la IRVE, según lo establezca el organismo competente. En ausencia de esta señalética se deberá utilizar la definida en el Anexo N°15.6. La altura de la señal debe asegurar su visibilidad. Los valores recomendados para la altura del borde o punto más bajo de una señal respecto de la parte más alta de la calzada serán entre 1,8 m y 2,0 m según se muestra en el Anexo N°15.6”
+
+“14.1.5.1 Si dispone modos de carga 3, deberá incluir al menos un conector Tipo 1 o Tipo 2 o Tipo 2 sin cable o GB/T AC. Ver Anexo N°15.4.
+14.1.5.2 Si dispone modos de carga 4, deberá incluir al menos un conector configuración AA, BB, EE o FF, con cable. Ver Anexo N°15.4.”
+
+“En este tipo de instalaciones deberán contar con una señalética que identifique claramente que es un servicio de recarga privado, siempre y cuando, se encuentre emplazado en un ambiente con acceso público, tales como estacionamientos, hoteles, centros comerciales, oficinas, etc. La altura de la señalética debe asegurar su visibilidad.”
+
+“Los puntos de recarga constituyen un sistema de instalaciones eléctricas especiales que requieren de condiciones y recursos energéticos mayores a los de una instalación de consumo domiciliario usual y a los de aquellas que, ubicadas en vías públicas concesionadas, se clasifican como instalaciones de consumo, según lo establece el artículo 2.2 de la norma técnica Nch. Elec. 4/2003, sobre Instalaciones de Consumo en Baja Tensión.”
+
+“Para garantizar la seguridad de las personas y las cosas y la continuidad y calidad del suministro, se hace necesario determinar un procedimiento de comunicación previa a esta Superintendencia, de la puesta en servicio de las respectivas instalaciones, estableciendo las condiciones mínimas de seguridad que deberán cumplirse por los instaladores eléctricos y profesionales que posean título suficiente, de conformidad con lo que señalan los reglamentos, al momento de energizar la infraestructura de carga destinada a suministrar energía a los vehículos eléctricos.”
+
+“Que existe la necesidad de fijar el procedimiento de comunicación para la puesta en servicio de la infraestructura de carga para vehículos eléctricos, con el objeto de establecer los requisitos mínimos que se deben informar a esta Superintendencia antes de ser puestas en servicio y con ello se genere un sistema de control sobre las instalaciones y quienes las ejecutan.”
+
+“La comunicación de energización de la infraestructura de las estaciones de carga para vehículos eléctricos que se instalen en propiedades particulares, o fiscales, así como en bienes nacionales de uso público (BNUP), deberá efectuarse por un instalador eléctrico en la clase que corresponda, con licencia vigente, o por el profesional autorizado por la normativa vigente, mediante el trámite electrónico TE-6, de esta Superintendencia, el que será recibido e inscrito en esta entidad a través de la plataforma electrónica E-declarador”
+
+“Certificación de seguridad del cargador eléctrico y de los demás componentes eléctricos de la instalación exigidos por la normativa eléctrica vigente.”
+
+“Manual de usuario que detalle los pasos a seguir para la carga del vehículo en lugares públicos.”
+
+“Informe de imágenes de la instalación que muestre gráficamente la instalación ejecutada, el que deberá contener como mínimo los siguientes puntos, en el siguiente orden: Numeración de la propiedad Medidor de la instalación (N° de cliente y valor de la protección termomagnética) Punto de carga (cargador del vehículo eléctrico) Canalización (conductores, tuberías, bandejas, cajas de derivación, accesorios, etc.) de los conductores que van hacia el punto de carga Tablero eléctrico en el cual estén las protecciones del punto de carga, junto a su rotulación y cableado interior.”
+
+“Los campos de información requeridos en el TE-6 deberán ser completamente llenados, los documentos requeridos, memoria explicativa, planos, informes de imágenes, certificados de productos, según corresponda, deberán ser declarados y acompañados a la Superintendencia de Electricidad y Combustibles a través de la plataforma electrónica E-declarador”
+
+“La Infraestructura de carga para vehículos eléctricos puesta en servicio con anterioridad a la fecha de entrada en vigencia de la presente resolución, en cuya ejecución o funcionamiento esta Superintendencia constate defectos que representen un peligro para la seguridad de las personas o cosas, o sufra intervenciones de diseño o simples modificaciones, deberá ser regularizada y comunicada a este Organismo Fiscalizador, conforme al presente procedimiento.”

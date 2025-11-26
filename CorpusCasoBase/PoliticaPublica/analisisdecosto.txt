@@ -1,0 +1,32 @@
+“La electromovilidad se presenta como una de las soluciones más efectivas para reducir los Gases de Efecto Invernadero (GEI). Sin embargo, enfrenta varios desafíos, entre los que destaca la necesidad de acelerar el despliegue de infraestructura de carga (IC). Esta infraestructura resulta fundamental para mantener las tazas de penetración de vehículos eléctricos (VE) que permitan lograr las metas que nos hemos impuesto como país.”
+
+“En este sentido, uno de los primeros esfuerzos que toman los países en vías de desarrollo, es generar información confiable y de calidad sobre los costos de las nuevas tecnologías. De esta forma, se facilita que todos los actores interesados en la electromovilidad puedan tomar decisiones más informadas y contribuye a disminuir las asimetrías de información.”
+
+“El término IC abarca no solo el cargador, sino también todos los elementos necesarios para garantizar su correcto funcionamiento. La implementación de la IC requiere materiales, equipos, mano de obra, tramitación de permisos con las distribuidoras eléctricas, el diseño del proyecto, entre otros aspectos.”
+
+“Chile ha asumido un compromiso decidido y ambicioso con la acción climática, estableciendo como meta convertirse en un país carbono neutral antes del año 2050. En este contexto, y considerando que el sector transporte es responsable del 25 % de las emisiones de Gases de Efecto Invernadero (GEI), con un consumo del 34 % de la energía del país [2], resulta fundamental implementar medidas y acciones concretas para avanzar hacia la descarbonización del sector.”
+
+“Para lograr esta meta, el despliegue masivo de IC será necesario. Como nos muestra la experiencia internacional, es probable que necesitemos decenas de miles de cargadores para respaldar un parque vehiculas eléctrico en crecimiento.”
+
+“Será crucial fortalecer la formación de capital humano especializado, robustecer las redes eléctricas de distribución, habilitar nuevos espacios destinados a esta infraestructura e incorporar estas tecnologías en los diseños de nuevas construcciones preparadas para la electromovilidad.”
+
+“El costo promedio de un proyecto dedicado de 7 kW es de USD$2.600, mientras que hacer el mismo proyecto, pero con un aumento de empalme, puede significar un aumento del 2% en el costo total de implementación.”
+
+“Por otro lado, los encuestados indicaron que la variabilidad de los costos al ejecutar un proyecto en regiones aisladas de la RM puede tener un sobrecosto de hasta un 19%. Esta variación se debe principalmente por Traslado de instaladores a las regiones en donde se ejecuta el proyecto, por falta de personal calificado en dichas regiones. Costos asociados a la logística por traslado de equipos y materiales para la instalación.”
+
+“Cabe mencionar, que para el caso de instalaciones en modo 3, de corriente alterna menores a 10 kW, lo pueden instalar eléctricos con Clase D, dando la posibilidad a una mayor cantidad de instaladores cualificados para estas instalaciones”
+
+“Destacar que, según los datos recopilados, si se requiere llevar el cableado de un cargador a otro piso de elevación en el edificio, este podría aumentar en un 20% el costo total de implementación. Además, para otras regiones fuera de la RM, los encuestados indican que podría existir un aumento del 30% en los costos”
+
+“El 59% del costo de la implementación corresponde a la instalación, lo cual se debe principalmente a que, al tratarse de un proyecto de mayor potencia, requiere de secciones más grandes de conductores, canalizaciones, movimiento de tierras, etc. Además, es necesario realizar una obra civil para su fundación, con refuerzos estructurales para garantizar que el proyecto sea resistente a socavaciones, deslizamientos u otros que se puedan presentar.”
+
+“La solución de carga en estaciones de servicios o electrolineras, se enfoca en entregar la carga en el menor tiempo posible con tal de no interrumpir el viaje del usuario. Debido a esto se considera exclusivamente proyectos de carga rápida en modo 4 que permitan cargar el VE en menos de 1 hora.”
+
+“El costo promedio de un proyecto con aumento de empalme es de USD$83.645, mientras que hacer el mismo proyecto, pero con un empalme dedicado, puede significar un 4% de aumento en el costo total de implementación.”
+
+“Al realizar este análisis, se identifican diferencias relevantes entre los costos observados en las distintas macrozonas del país con compra agregada. No obstante, al implementar una estrategia de compra agregada, se logra una reducción de costos con respecto a la compra unitaria por un valor del 8% en promedio y puede atribuirse a varios factores.”
+
+“Los resultados nos muestran que la disponibilidad de potencia en el empalme, la distancia de canalización y la normalización de la infraestructura eléctrica existente son los principales factores que explican la variabilidad de los costos. hemos identificado ciertas brechas que persisten en la descentralización de la electromovilidad. Principalmente por la falta de mano de obra local capacitada y por los costos asociados a la logística y traslado del personal, lo que genera un sobrecosto en proyectos alejados de la RM.”
+
+“IC para vehículos eléctricos en Chile está avanzando hacia un mercado más competitivo y dinámico, con una disminución en los costos para ciertas tipologías de proyectos y un enfoque en la estandarización para facilitar su implementación.”
+

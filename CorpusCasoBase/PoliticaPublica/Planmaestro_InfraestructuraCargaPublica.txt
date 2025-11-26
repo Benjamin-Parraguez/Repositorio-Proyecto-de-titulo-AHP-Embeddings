@@ -1,0 +1,110 @@
+“El Plan Maestro de Infraestructura de Carga Pública (PMICP) forma parte de la Hoja de Ruta para el Avance de la Electromovilidad 2023-2026, iniciativa impulsada por el Ministerio de Energía y desarrollada por la Agencia de Sostenibilidad Energética (AgenciaSE). Su objetivo principal es diseñar y promover una red de infraestructura de carga de acceso público eficiente y robusta para vehículos eléctricos, garantizando la existencia de al menos un punto de carga cada 100 kilómetros.”
+
+“el Plan se focaliza en la Macrozona Norte, abarcando las regiones de Arica y Parinacota, Tarapacá, Antofagasta y Atacama. Estas regiones presentan importantes brechas en materia de infraestructura de carga dificultando así el avance de la movilidad eléctrica.”
+
+“Si bien el Plan apunta al transporte particular, y es desde ahí que se espera el despliegue a la movilidad eléctrica, esta debe implementarse en el transporte público menor de pasajeros como taxis y colectivos y corredores de la minería.”
+
+“Este documento es el resultado de un proceso integral de prospección, planificación y participación local, orientado a definir medidas para el avance de una red de carga de acceso público en la Macrozona Norte.”
+
+“A través de jornadas de trabajo regionales y la vinculación con conocedores en electromovilidad, se identificaron necesidades y oportunidades territoriales específicas relacionadas con la infraestructura de carga. Estas instancias permitieron recopilar insumos valiosos de una diversidad de actores locales, incluyendo representantes de los sectores público, privado y académico.”
+
+“Actualmente, la Macrozona Norte cuenta con 40 cargadores de acceso público, todos en zonas urbanas densamente pobladas con grandes distancias entre ellas, lo que resulta insuficiente.”
+
+“Se estima la necesidad de habilitar al menos 49 nuevos puntos de carga de acceso público para 2035, lo que requiere una inversión aproximada de 7.000 millones de pesos (sin incluir costos de terreno ni expansión de redes eléctricas).”
+
+“Identificación y habilitación de espacios públicos o fiscales para el despliegue de infraestructura de carga. MOP, MEN, Ministerio de Bienes Nacionales.”
+
+“Promover el despliegue de infraestructura 
+de carga en zonas estratégicas Lo anterior, 
+por medio de aportes en financiamiento de 
+parte de actores locales.”
+
+“Fomentar el desarrollo de corredores 
+eléctricos que conecten los principales  
+puntos turísticos de la macrozona norte.”
+
+“Trabajar en la incorporación de 
+consideraciones en las licitaciones del 
+Ministerio de Obras Públicas que permitan 
+anticipar y facilitar la instalación y operación 
+de infraestructura de carga.”
+
+“ Generar instancias de coordinación 
+público privadas para identificar la 
+demanda e incentivar el despliegue 
+de la infraestructura de carga.”
+
+“ Crear instancias de divulgación y  
+concienciar sobre las oportunidades de 
+la electromovilidad, para fomentar la
+ participación de empresas locales.”
+
+“ Formar al menos 30 instaladores 
+electricistas en materia de infraestructura 
+de carga en la macrozona norte.”
+
+“Generar colaboración con los centros de 
+formación técnica regionales para 
+incorporar las temáticas de infraestructura 
+de carga en sus planes formativos.”
+
+“Chile se ha comprometido a alcanzar la carbono neutralidad para 2050, tal como lo establece la Ley Marco de Cambio Climático  con la meta de que, para 2035, todas las ventas de vehículos livianos y medianos, así como las nuevas incorporaciones al transporte público urbano, sean cero emisiones, según establece la Estrategia Nacional de Electromovilidad.”
+
+“La experiencia internacional en países con una mayor adopción de VE muestra que entre el 50% y el 80% de la carga de VE se realiza en el hogar.  A pesar de que la carga de acceso público se usa en menor medida, esta es indispensable para viajes interurbanos, vehículos que recorren una gran cantidad de kilómetros al día y usuarios sin posibilidad de cargar en el hogar. Adicionalmente, diversos estudios muestran que el despliegue de carga de acceso público entrega confianza a los usuarios y fomenta la compra de VE.”
+
+“En Chile, el desarrollo de la ICP es limitado, y la mayoría de las comunas no cuenta con ningún cargador de acceso público (62%).  se requiere aumentar considerablemente la cobertura de la red de carga de acceso público a nivel nacional.”
+
+“Reconociendo la importancia de una red de carga de acceso público  el Ministerio de Energía ha incluido  la elaboración de un Plan Maestro de Infraestructura de Carga Pública (PMICP). Este Plan tiene como objetivo principal planificar, diseñar, coordinar y fomentar el despliegue de una red de carga de acceso público para VE  asegurando que los puntos de carga estén ubicados a no más de 100 kilómetros en rutas interurbanas.”
+
+“La implementación de la red de carga enfrenta retos económicos, como los altos costos de inversión y la incertidumbre sobre la recuperación de estas inversiones, dado que la demanda de vehículos eléctricos aún es incipiente en el país, y más en la zona macrozona norte.”
+
+“En el caso de la ICP, una planificación estratégica facilita la superación de barreras  surge la problemática conocida coloquialmente como “el dilema del huevo o la gallina”, donde la baja adopción de VE dificulta la inversión privada en infraestructura de forma autónoma, debido a los bajos retornos de corto plazo, y de forma inversa, la poca ICP retrasa la entrada de VE.”
+
+“Experiencias internacionales muestran que la intervención del Estado en etapas tempranas de la electromovilidad resulta necesaria para salir de este bucle y crear condiciones más favorables que fomenten la inversión privada. Por ello, planificar y diseñar una red de carga robusta  priorizando las zonas con mayor impacto y ampliando la cobertura de la red.”
+
+“Por otra parte, resulta relevante enfatizar la importancia de la carga rápida en el desarrollo temprano de la electromovilidad. Este tipo de infraestructura permite la carga de un VE en un menor tiempo, siendo condición necesaria para los viajes interurbanos y la operación de flotas de alto recorrido como el transporte público menor y las flotas de delivery. De acuerdo con la Figura 3, solo el 20% de los cargadores de acceso público actualmente instalados permiten una carga rápida.”
+
+“Al observar la distribución geográfica de la infraestructura actual se puede constatar que esta se encuentra principalmente desplegada en grandes zonas urbanas  y en la ruta 5  permitiendo la conectividad desde Coquimbo hasta Puerto Montt. Esta distribución hace compleja la circulación […] hacia el sector costero o cordillerano, así como zonas desde Coquimbo hacia el norte.”
+
+“Escaso conocimiento de la tecnología
+La falta de comprensión sobre la importancia de la infraestructura de carga entre los tomadores de decisiones limita el desarrollo.”
+
+“Déficit de capital humano especializado La escasez de personal capacitado en las regiones fuera de la RM. aumenta los plazos y costos de instalación de la IC, al obligar a trasladar profesionales desde la Región Metropolitana.”
+
+“Falta de infraestructura eléctrica, procesos de conexión y tarifas La falta de capacidad en las redes de distribución y los largos procesos para la conexión eléctrica ralentizan la expansión de los puntos de carga. Adicionalmente, la estructura tarifaria presenta desafíos operativos para el CPO*.”
+
+“Disponibilidad de espacios para IC La competencia por el espacio público, incluso en estaciones de servicio, dificulta la instalación de puntos de carga para VE.”
+
+“Parque vehicular eléctrico reducido Baja adopción de vehículos eléctricos dificulta la rentabilidad de los proyectos de IC en el corto plazo.”
+
+“El principal factor que restringe el despliegue de ICP en regiones es la baja rentabilidad de corto plazo de los proyectos, explicado en parte por dos factores: Bajo factor de utilización […]Estructura tarifaria eléctrica […] se estima un factor de utilización mínimo del 19% para cubrir estos costos operacionales”
+
+“El PMICP es una de las acciones concretas establecidas en la Hoja de Ruta para el avance de la electromovilidad en Chile. identificar zonas prioritarias para la instalación de cargadores, con el objetivo de garantizar puntos de carga cada 100 kilómetros en las rutas interurbanas y la priorización según la movilidad de las personas.”
+
+“Se llevaron a cabo mesas participativas presenciales en Antofagasta, Iquique y Copiapó,  Más de 90 actores clave participaron, incluyendo autoridades locales, representantes del sector privado y académicos. […] abordaron temas como financiamiento y disponibilidad de espacios para la IC.”
+
+“A pesar de los avances en la autonomía de los VE, las grandes distancias entre zonas urbanas en la macrozona norte de Chile siguen representando un desafío significativo […] Estas largas distancias superan la autonomía promedio de muchos VE.”
+
+“A partir de esta estimación, se concluye que para el año 2035 existirá un total aproximado de 2 millones de VE a nivel nacional […] lo que implica un requerimiento estimado de 200.000 puntos de carga de acceso público.”
+
+“en la macrozona norte deberían existir 175.000 VE lo que implica un despliegue de al menos 17.500 puntos de carga de acceso público (1750 en DC y 15750 en AC y una parte de los DC rápida estarán en rutas) en un territorio que hoy solo contabiliza 40 cargadores.”
+
+“Una condición basal para la habilitación de esta infraestructura es la necesidad de contar con espacios propicios para su despliegue, considerándose como mínimos deseables:
+Lugares seguros Acceso a servicios complementarios […] Contar con acceso a internet  Contar con suministro eléctrico.”
+
+“Las áreas turísticas ofrecen una oportunidad para la implementación de cargadores semi-públicos con inversiones menores. Estas soluciones pueden fomentar el desarrollo de corredores verdes turísticos y contribuir a la adopción de VE en estas áreas estratégicas.”
+
+“Se identifica una oportunidad en el interés de los Gobiernos Regionales  programas públicos como Mi taxi eléctrico o + Transporte Eléctrico Para futuras versiones considerar el aporte a la inversión inicial de la ICP para favorecer la inversión de los CPO.”
+
+“la colaboración privado-privado es un mecanismo  donde una organización que demanda ICP colabora económicamente con un CPO para fomentar su despliegue.  la amplia presencia de la industria minera puede ser un catalizador de inversiones en ICP.”
+
+“Se identifica la necesidad de formar personal especializado en la instalación, operación y mantenimiento de IC. Universidades y centros de formación técnica en la región pueden desempeñar un papel estratégico en esta materia.”
+
+“Se resalta como un desafío la necesidad de acelerar los procesos de aumento o conexión de nuevos empalmes. La posibilidad de generar tarifas diferenciadas que fomenten la inversión en ICP puede ser un mecanismo efectivo”
+
+“En este documento, se define una zona crítica como un área prioritaria para la instalación de ICP, necesaria para permitir la conectividad y cumplir el objetivo asegurar que los puntos de carga estén ubicados a no más de 100 kilómetros en rutas interurbanas. se identificaron 49 zonas priorizadas costo total de inversión asciende a 7.000 millones de pesos dentro de los próximos 10 años.”
+
+“Aunque es clara la necesidad de avanzar en más y mejor ICP, la situación actual es que para el privado –quienes históricamente han desarrollado la red– resulta poco rentable desplegar inversiones en
+zonas de poca demanda de VE. necesario del aporte estatal y de otros actores privados.”
+
+
