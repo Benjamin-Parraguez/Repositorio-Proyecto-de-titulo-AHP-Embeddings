@@ -32,7 +32,7 @@ DOC_EQUALIZE = True     # equalización por documento
 BETA_OVA = 0.50         # fuerza del contraste uno-vs-todos
 CENTER_ROWS = True      # centrar por fila (quita fondo común)
 
-ASSIGN_MODE = "hybrid"  # "soft" | "hard" | "topk" | "hybrid"
+ASSIGN_MODE = "soft"  # "soft" | "hard" | "topk" | "hybrid"
 MARGIN = 0.02           # gap top - segundo para decidir "duro"
 TOPK = 2                # para modos topk/hybrid cuando reparte
 DELTA = 0.03            # incluye j con S[j] >= S_top - DELTA
@@ -480,3 +480,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
